@@ -1,0 +1,44 @@
+LIBER -PRJMUS 39
+
+2 aequalem ipsi A B,· adeo ut radiis A S, BS, cS ad centrum actis,
+confectae forent aequales areae ⁴„A S B,—B Sc. Verum ubi corpus
+¹ venit ad B, agat '
+vis centripeta
+impulsu unico
+sed magne, effi-
+'ciatque ut cor-
+pus de recta Bc
+declinet & per-
+gat in recta B C.
+Ipsi B S paral-
+lela agatur c C,
+occurrens B C
+in C·; & com-
+pleta secunda
+temporis parte,
+corpus (per le-
+gum corol. 1.)
+reperietur in C,
+in eodem plano ¹ s
+cum triangulo s‘fff‘s
+A S B. Junge
+S C ,·. & triangulum S B C, ob parallelas S B, C c,'aequale erit trian-
+gulo S B c, atque ideo etiam triangulo S A B. Simili argumento si
+vis centripeta successive agat in C, D, E, &o faciens ut corpus singulis
+. temporis particulis singulas describat rectas C D, DE, E F, &o
+jacebunt hae omnes in eodem plano; & triangulum S C D triangulo
+SB C, & SDE ipsi SCD, & SEFipsi SDEaequale erit. AEqua-
+libus igitur temporibus aequales areae in plano immoto describuntur:
+& componendo, sunt arearum summae quaevis S A D S, S A F S inter
+se, ut sunt tempora descriptionum. Augeatur jam numerus & minu-
+atur latitudo triangulorum in infinitum; & eorum ultima perimeter
+A DF, (per corollarium quartum lemmatis tertii) erit linea curva:
+ideoque vis centripeta, qua corpus a tangente hujus curvae perpetuo
+retrahitur, aget indesinenter; areae vero quaevis descriptae SA DS,
+SA F S temporibus descriptionum semper proportionaleS, erunt
+iisdem temporibus in hoc casu proportionales Q. E. D.
+
+  
+
+ 
+

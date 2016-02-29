@@ -1,0 +1,60 @@
+   
+
+tebnqw‘ ,., . „2
+
+· · N.. . vu αἱς *v §tw *ζ’-’ἱ
+
+.· ‘M‘m vast& ·T-·‘··
+
+LIBER PRIMUS. 2 2 7
+
+PROPOSITIO XCVII. PROBLEMA· XLVII.
+
+Posito quoa' sinus incia'entiae in superficiem aliquam sit aa' sinam
+emergentia· in a'ata ratione ,· quodque incurvatio viae corporum juxta
+superficiem illam fiat in spatio brevissimo, qnod nt punctum
+considerari possit .- determinare superficiem, qnoe corpuscula omnia
+
+de loco dato succassive manantia convergere faciat aa' alium locum
+datum.
+
+Sit A locus a quo corpuscula divergunt; B locus in quem con-
+
+· vergere debent; C DE curva linea quae circa axem A B revoluta
+
+describat superficiem quaesitam; D, E curvae illius puncta duo
+
+, quaevis; & EF, E G perpendicula m corporis vias A D, DB demissa.
+
+Accedat punctum D ad punctum E‚· & lineae DF, qua A D
+
+augetur, ad lineam D G, qua D B diminuitur, ratio ultima erit eadem
+quae sinus incidentiae ad
+
+sinum emergentiae. Datur
+ergo ratio incrementi lineae
+AD ad decrementum lineae
+DB,· & propterea si in axe A
+
+A B sumatur ubivis punctum C, per quod curva C DE transire
+
+  
+
+· debet, & capiatur ipsius A C incrementum CM ad 1psius B C decre-
+
+mentum CN in data illa ratione, centrisque A, B, 8: intervallis
+A M B N describantur circuli duo se mutuo secantes in D,-
+punctum illud D tanget curvam quaesitam C D E, eandemque ubivis
+tangendo determinabit. Q. E. J.
+
+Corol. 1. Faciendo autem ut punctum A vel B nunc abeat in
+infinitum, nunc migret ad alteras partes puncti C, habebuntur figurae
+illae omneS‚ quas Cartesins in optica & geometria ad resi-actiones
+
+exposuit. Quarum inventionem cum Cartesius celaverit, visum fuit
+hac propositione exponere.
+
+Corol. 2. Si corpus in superficiem quamvis C D, secundum line-
+am rectam A D, lege quavis ductam incidenS, emergat secundum
+aliam quamvis rectam DK, & a puncto C duci intelligantur lineae
+

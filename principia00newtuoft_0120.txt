@@ -1,0 +1,50 @@
+78 DE M OTU CORPOR ΗΜ ¹¹
+
+occurrentem loco in F. Inven-
+ietur autem punctum F per
+lem. XIX. ' Biseca B F in G, &
+acta indefinita A G erit positio
+diametri ad quam B G & F G
+
+ordinatim applicantur. Haec
+A G occurrat loco in H, &
+erit A H diameter sive latus
+transversum, ad quod latus rec-
+
+tum erit ut BGq ad A G><
+GH. Si A G nusquam oc-
+currit loco, linea A H existente
+infinita, locus erit parabola, &
+
+ 
+
+BGq
+
+Sin ea
+
+ 
+
+latus rectum ejus ad diametrum A G pertinens erit
+
+alicubi occurrit, locus hyperbola erit, ubi puncta A & H sita sunt ad
+easdem partes ipsius G: & ellipsis, ubi G intermedium est, nisi forte
+angulus A GB rectus sit, & insuper B G qnaa'. aequale rectangulo
+A G H, quo in casu circulus habebitur.
+
+Atque ita problematis veterum de quatuor lineis ab Euclide
+incoepti & ab Apollonio continuati non calculuS, sed compositio
+geometrica, qualem veteres quaerebant, in hoc corollario exhibetur.
+
+LEMMA XX.
+
+Si parallelogrammum quodvis A S P Q angulis a'nobns oppositis A ὢ*
+Ρ tangit sectionem quamvis conicam in punctis A ὥ* Ρ; 69³ lateribus
+nnius angulorum illorum infinite productis A Q, A S occurrit eidem
+sectioni conica> in B &³ C; a punctis autem occursnnm B ὣ* C aa'
+quintum quodvis sectionis conicae punctum D agantur rectae cluae Β D, ¹
+C D occurrentes alteris duobus infinite productis parallelogrammi i
+lateribus P S, P Q in T <⁰9³ R ε erunt semper abscissae laterum partes
+P R <⁶3³ Ρ Τ ad invicem in data ratione. Et contra, si partes illae Ξ
+abscissoe sunt aa' invicem in data ratione, punctum D tanget sectionem
+conicam per puncta quatuor A, B, C, P transeuntem.
+

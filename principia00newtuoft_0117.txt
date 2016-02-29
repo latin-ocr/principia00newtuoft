@@ -1,0 +1,49 @@
+Ν . LIBER mmo-s„ ι 7 5
+- LEMMA xvnl.
+
+ii(
+
+Ι ’ Izkdem positis, εἰ rectangulum ductarum ad opposita duo latera trapezii
+ΡΩ >< PR sit ad rectangulum ductarum ad reliqua duo latera
+PS Χ PT z'n data ratione ,· punctum P, a quo lz'neoe ducuntur,
+tanget conz'cam sectionem circa trapezium descriptam.
+
+v Per puncta A, B, C, D & aliquod infinitorum punctorum P,
+f puta p, concipe conicam sectionem describi: dico punctum P hanc
+¹ ⁴ semper tangere. Si negem, junge A P secantem hanc conicam sec-
+
+tionem alibi quam in P, si fieri potest, puta in b. Ergo si ab his
+punctis p & b ducantur in datis angulis ad latera trapezii rectae p q,
+pr‚p5,pt & bk, bn, bf, bd,· erit ut bkxbn ad bsx bd ita
+(per lem. xv11.) pqxpr ad psxp t, & ita (per hypoth.) PQxPR
+ad PS ><Ρ Τ. Est & propter similitudinem trapeziorum bk· A f}
+PQA S, ut bk ad b f ita ΡΩ ad PS. Quare, applicando ter-
+
+minos prioris proportionis ad terminos correspondentes hujus, erit
+
+bn ad bdut PR ad PT. Er-
+go trapezia aequiangula Dnbd,
+DR P T similia sunt, & eorum
+diagonales Db, D P propterea
+coincidunt. Incidit itaque b
+in intersectionem rectarum ΑΡ, C
+D P ideoque coincidit cum
+puncto Ρ. Quare punctum
+P, ubicunque sumatur, incidit
+in assignatam conicam sectio-
+
+nem. ρ. E. D.
+
+ 
+
+Corol. Hinc si rectae tres ἒ
+
+PQ, PR, PS a puncto com- A <I — RQ Β
+
+muni P ad alias totidem positione datas rectas AB, C D, A C, singulae
+ad singulaS, in datis angulis ducantur, sitque rectangulum sub duabus
+ductis PQxPR ad quadratum tertiae PS in data ratione: punc-
+tum P, a quibus rectae ducuntur, locabitur in sectione conica
+quae tangit lineas AB, C D in A & C‚· & contra. Nam coeat linea
+BD cum linea A C, manente positione trium A B, C D, A C ‚· dein
+

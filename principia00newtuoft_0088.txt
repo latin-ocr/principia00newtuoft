@@ -1,0 +1,45 @@
+. 46 DE MOTU CORPORUM
+
+‘PROPOSITIO V. PROBLEMA Ι.
+
+Data quibuscunque in locis velocitate, qua corpus figuram datam
+viribus ad commune aliquod centrum· tendentibus describit,
+centrum illud invenire.
+
+Figuram descriptam tangant rectae tres Ρ Τ, Τ Q V, VR ·in punc--
+tis totidem Ρ, Q, R, concurrentes in T & V. Ad tangentes eri-
+gantur perpendicula PA, QB, R C velocitatibus corporis in punctis
+illis Ρ, Q, R, a quibus eriguntur, reciproce proportionalia ; id est,
+
+ita ut sit PA ad QB ut velocitas in Q ad velocitatem in P, & QB ·
+
+ad R C ut velocitas in R ad velocitatem in Q. Per perpendiculorum
+terminos A, B, C ad angulos rectos ducantur A D, DB E, E C
+concurrentes in D & E .· Et actae T D, V E concurrent in centro
+quaesito S. .
+Nam perpendicula a centro S in tangentes Ρ T, Q T demissa (per
+corol. 1. prop. 1.) sunt reciproce
+ut velocitates corporis in punctis
+Ρ 8( Q; ideoque per construc-
+tionem ut perpendicula A Ρ,
+BQ directe, id est ut perpendi-
+cula a puncto D in tangentes
+demissa. Unde facile colligi-
+tur quod puncta S, D, T sunt in
+una recta. Et simili argumento
+
+puncta S, E, V sunt etiam in una recta ; & propterea centrum S
+1n concursu rectarum T D, V E versatur. Q. E. D.
+
+ 
+
+PROPOSITIO VI. THEOREMA V.
+
+Si corpus in spatio non resistente circa centrum immobile in orbe
+
+quocunque revolvatur, <⁰9³ arcum quemvis jamjam nascentem
+tempore quam minimo describat, ἐπ’ sagitta arcus duci intelli-
+gatur, quae chordam bisecet‚ δῖ producta transeat per centrum
+
+' *Anu—*Q 4⁴- „⁴- ...4—.u-.A.⁴. ..4— v- . ι. . . ,
+

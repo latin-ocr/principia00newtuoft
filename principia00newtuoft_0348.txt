@@ -1,0 +1,38 @@
+ 
+
+306 DE Mo TU CORPOR ΠΜ
+
+Atque has conclusiones in rebus practicis abunde satis' accuratas·
+esse censeo. Nam cum ellipsis vel parabola B R V S a congruat cum
+figura ΒΚ V T a in puncto medio V, haec si ad partem alterutram
+BR V vel V S a excedit figuram illam, deficiet ab eadem ad partem
+alteram, & sic eidem'aequabitur quarn proxime. ’
+
+PROPOSITIO XXXI. THEOREMA XXV.
+
+Si corporis oscillantes resisteulz'a in sz‘ugulzs arcuum descriptorum
+partibus proportionalibus augeatur vel minuatur in data ratione ‚-
+differentia iuter arcum descensu descriptum &³ arcum subsequente
+ascensu descrsptum, augebitur vel diminuetur in eadem ratione.
+
+Oritur enim differentia illa ex retardatione penduli per resistentiam
+medii, ideoque est ut retardatio tota eique proportionalis resistentia
+retardans, In superiore propositione rectangulum sub recta saB &
+arcuum illorum CB, C a differentia A a aequalis erat areae BK Ta.
+
+ 
+
+Et area illa, si maneat longitudo a B, augetur vel diminuetur in ratione
+ordinatim applicatarum DK ‚· hoc est, in ratione resistentiae‚ ideoque
+est ut longitudo a B ἃ resistentia conjunctim. Proindeque rectangu-
+lum sub A a & {- aB est ut a B ἃ resistentia conjunctim, ἃ propterea
+A a ut resistentia. Q. E. D.
+
+Corol. 1. Unde si resistentia sit ut velocitas, differentia arcuum in
+eodem medio erit ut arcus totus descriptus ι 8ε contra.
+
+Corol. 2. Si resistentia sit in duplicata ratione velocitatiS, differentia
+illa erit in duplicata ratione arcus totius : & contra.
+
+ 
+

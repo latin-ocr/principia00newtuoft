@@ -1,0 +1,34 @@
+LIBER TERTIUS. 447
+
+PROPOSITIO XXXII. PROBLEMA XIII.
+
+Invenire motum medium nodorum lunae. Ἀ
+
+    
+
+Ἀ Motus medius annuus est summa motuum omnium horariorum
+Ι mediocrium in anno, Concipe nodum versari in N, &singulis horis
+’ ,completis retrahi inlocum suum priorem ut non obstante motu suo
+proprio datum semper servet situm ad stellas fixas, Interea vero
+solem S, per motum terrae, progredi a nodo & cursum annuum
+apparentem uniformiter complere. Sit autem A a arcus datus quam
+minimus, quem recta T S ad solem semper ducta, intersectione sui &
+circuli NA n, dato tempore quam minimo describit: & motus
+”; horarius mediocris (per jam ostensa) erit ut A Z q, id est (ob pro-
+portionales A Z, Z Y) ut rectangulum sub A Z & Z Y, hoc est, ut
+
+ἐς.
+Ἀ
+
+ 
+
+’ area A Z Ya. Et summa omnium horariorum motuum mediocrium
+ab initio, ut summa omnium arearum a· YZ A, id est, ut area N A Z.
+Est autem maxima A Z Ya aequalis rectangulo sub arcu A a ἃ radio
+'circuli3 81 propterea summa omnium rectangulorum in circulo toto
+ad summam totidem maximorum, ut area circuli totius ad rectangu-
+lum sub circumferentia tota & radio, id est, ut 1 ad 2. Motus
+autem horarius rectangulo maximo respondens erat 16⁰ 16'-'' 37¹2
+4242. Et hic motus, anno toto sidereo dierum 365 hon-6 min. 9 fit
+39⁸³· 38' 7'' 50'‘'. Ideoque hujus dimidium 19gr. 49' 3⁰ 55''' est
+

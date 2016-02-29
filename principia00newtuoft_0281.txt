@@ -1,0 +1,42 @@
+LIBER SECUNDUS. 2 39
+
+Scholium.
+
+    
+
+Caeterum, resistentiam corporum esse in ratione velocitati5‚
+hypothesis est magis mathematica quam naturalis In mediis, quae
+'rigore omni vacant, resistentiae corporum sunt in duplicata ratione
+velocitatum. Etenim actione corporis velocioris communicatur
+
+’ eidem medii quantitati, tempore minore, motus major in ratione
+majoris velocitatis ; ideoque tempore aequali‚ ob majorem medii
+quantitatem perturbatam, communicatur motus in duplicata ratione
+major; estque resistentia (per, motus leg. 11 8c 111) ut motus com-
+municatus, Videamus igitur quales oriantur motus ex hac lege
+reslstentiae.
+
+SECTIO ΙΙ.
+
+De motu corporum quibus resistitur in duplicata ratione velocitatum.
+
+PROPOSITIO V. THEOREMA ΙΙΙ.
+
+S i corpori resistitur in velocitatis ratione duplicata, &³ idem sola
+vi insita per medium similare movetur,· tempora vero sumantur ’
+in progressione geometrica a minoribus terminis ad majores pergente .·
+dico quod velocitates initio singulorum temporum sunt in eadem
+
+progressione geometm'ca inverse ,· <⁰9³ quod spatia sunt aequalia, quoe
+singulis temporibus describuntur.
+
+Nam quoniam quadrato velocitatis proportionalis est resistentia
+medii, 8ζ resistentiae proportionale est decrementum velocitatis 3 si
+ξ tempus in particulas innumeras aequales dividatur, quadrata velo-
+
+citatum singulis temporum initiis erunt velocitatum earundem
+'r differentiis proportionalia. Sunto temporis particulae illae A K, K L,
+{2 L M, &e in recta C D sumptae, & erigantur perpendicula A B,
+ζ K k, Ll, M m, &e hyperbolae B kl m G,' centro C asymptotis
+r
+

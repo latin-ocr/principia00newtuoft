@@ -1,0 +1,45 @@
+*LIBER TERTIUS. 46 3>
+
+- angulus C DF aequalis complemento anomaliae verae solis ad gradus
+'⁴ 360. Et sit DF ad D C ut dupla eccentricitas orbis magni ad dis-
+
+ 
+
+tantiam mediocrem solis a terra 81 motus medius diurnus solis ab
+apogaeo lunae ad motum medium diurnum solis ab apogaeo proprio
+conjunctim, id est, ut 33} adv 1000 & 52' 27'' 16''' ad 59' 8'' 10'''
+conjunctim, sive ut 3 ad 100. Et concipe centrum orbis lunae locari
+· in puncto F‚·& in epicyclo,'cujus centrum est D δε radius DF, interea
+revolvi dum punctum D progreditur in circumferentia circuli DA BD.
+Hac enim ratione velocitaS, qua centrum orbis lunae in linea quadam
+curva circum centrum C descripta movebitur, erit reciproce ut cubus
+distantiae solis a terra quamproxime, ut oportet.
+
+Computatio motus hujus difficilis est, sed facilior reddetur per
+approximationem sequentem. Si distantia mediocris lunae a terra
+sit partium 100000, & eccentricitas T C sit partium 5505 ut supra:
+recta CB vel C D invenietur partium 1 1723, & recta DF partium
+35ὲ. Et haec recta ad distantiam TC subtendit angulum ad terram
+quem translatio centri orbis a loco D ad locum F generat in motu
+centri hujus : & eadem recta duplicata in situ parallelo ad distantiam
+superioris umbilici orbis lunae a terra subtendit eundem angulum,
+quem utique translatio illa generat in motu umbilici, 84: ad distantiam
+lunae a terra subtendit angulum quem eadem translatio generat in
+motu lunae, quique propterea aequatio centri secunda dici potest. Et
+haec aequati0, in mediocri lunae distantia a terra, est ut sinus anguli,
+quem recta illa DF cum recta a puncto F ad lunam ducta continet
+quamproxime, &ubi maxima est evadit 2' 25'‘. Angulus autem quem
+recta DF& recta a puncto F ad lunam ducta comprehendunt in-
+venitur vel subducendo angulum E DF ab anomalia media lunae, vel
+addendo distantiam lunae a sole ad distantiam apogaei lunae ab apogaeo
+solis, Et ut radius est ad sinum anguli sic inventi, ita 2' 25⁰ sunt ad
+aequationem centri secundam, addendam si summa illa sit minor
+semicirculo, subducendam si major. Sic habebitur ejus longitudo in
+ipsis luminarium syzygiis
+
+Cum atmosphaera terrae ad usque altitudinem milliarium 35 vel 40
+refringat lucem soliS, & refringendo spargat eandem in umbram terrae,
+8c spargendo lucem in confinio umbrae dilatet umbram: ad diametrum
+umbrae, quae-per parallaxim prodit, addo minutum unum primum in
+eclipsibus lunae, vel minutum unum cum triente.
+

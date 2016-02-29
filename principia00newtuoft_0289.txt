@@ -1,0 +1,51 @@
+LIBER SECUND os. 247
+
+vires absolutae ,· dico quod vires illae absolutae sunt in prograesz'one
+geometrzka. ’
+
+Exponatur enim vis gravitatis per datam lineam A C ,· resistentia
+per lineam indefinitam A K ,· vis absoluta in descensu corporis per
+differentiam K C ,· velocitas corporis per lineam A P, quae sit media
+
+, proportionalis inter A K & A C, ideoque in subduplicata ratione
+
+ 
+
+resistentiae; incrementum resistentiae data temporis particula factum
+per lineolam K L, & contemporaneum velocitatis incrementum per
+lineolam P Q: & centro C asymptotis rectangulis CA, CH describa-
+tur hyperbola quaevis BN S, erectis perpendiculis A B, K N, L O
+·occurrens in B, Ν, 0. Quoniam A K est ut A Pq, erit hujus mo-
+
+mentum K L ut illius momen· Η
+
+tum 2APQ: id est, ut ΑΡ in
+Κ C,· nam velocitatis incremen-
+tum P Q (per motus leg. 11)
+proportionale est vi generanti
+K C. Componatur ratio ipsius
+K L cum ratione ipsius K N,
+& fiet rectangulum K L >< K N ξ ,4 ,
+utAPxKCxKN,·hocest, C ΟΡ LK¹A5k ἶ
+ob datum rectangulum K C >< K N, ut A P. Atqui areae hyperbolicae
+K N OL ad rectangulum K L >< K N ratio ultima, ubi coeunt puncta
+K& L, est aequalitatis Ergo area illa hyperbolica evanescens est
+ut A P. Componitur igitur area tota hyperbolica A B OL ex par-
+ticulis K N O L velocitati A P semper proportionalibuS, & propterea
+spatio velocitate ista descripto proportionalis est. Dividatur jam ,area
+illa in partes aequales A BMI, IMNK, KNOL, &a & vires
+absolutae A C, J C, K C, L C, &o erunt in progressione geometrica.
+Q. E. D. Et simili argumento, in ascensu corporiS, sumendo, ad
+contrariam partem puncti A, aequales areas A B m τ’, im n k, k n 0 l,
+&o constabit quod vires absolutae A C, τ’ C, k C, l C, &a sunt continue
+proportionales Ideoque si spatia omnia in ascensu & descensu capi-
+antur aequalia; omnes vires absolutae l C, kC‚ τ’ C, A C, l C, K C,
+L C, &o erunt continue proportionales Q. E. D.
+
+Corol. 1. Hinc si spatium descriptum exponatur per aream hyper—
+bolicam A B N K ,· exponi possunt vis gravitatiS, velocitas corporis
+
+    
+
+ 
+

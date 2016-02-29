@@ -1,0 +1,48 @@
+LIBERSECUNDUS' · ’ ’267
+
+’· -· ’ Etenim ob datum spatii incrementum Ε Dde, lineola Dd, quae
+‘decrementum est ipsius G D, erit reciproce ut E D, ideoque directe
+ut C D, hoc est, ut summa ejusdem G D & longitudinis datae C G.
+-Sed velocitatis decrementum, tempore sibi reciproce proportionali,
+quo data spatii particula DdeE describitur, est ut resistentia &
+tempus conjunctim, id est, directe ut summa duarum quantitatum,
+
+ἕ, quarum una est ut velocitaS, altera ut velocitatis quadratum, &
+
+ι inverse ut velocitas; ideoque directe ut summa duarum quantitatum,
+quarum una datur, altera est ut velocitas Decrementum igitur tam
+velocitatis quam lineae G D, est ut quantitas data ἃ quantitas decres-
+cens conjunctim, & propter analoga decrementa, analogae semper
+erunt quantitates decrescentes; nimirum velocitas ἃ linea Gl).
+
+. . D.
+Q {orob 1. Si velocitas exponatur per longitudinem GD, spatium
+
+ῃ ’ descriptum erit ut area hyperbolica DESR.
+
+ 
+
+Corol. 2. Et si utcunque assumatur punctum R, invenietur punc-
+tum G capiendo GR ad GD, ut est velocitas sub initio ad velocitatem
+post spatium quodvis RS E D descriptum. Invento autem puncto G,
+datur spatium ex data velocitate, ἃ contra.
+
+Corol. 3. Unde cum (per prop. xl) detur velocitas ex dato tem-
+pore, & per hanc propositionem detur spatium ex data velocitate;
+dabitur spatium ex dato tempore : & contra.
+
+PROPOSITIO XIII. THEOREMA X.
+
+Posito quod corpus ab uniformi <gravitate deorsum attractum recta
+ascendit vel descemz'it ,· ὣ* quod eidem resistitur partim iu ratione
+velocitatis, partim iu ejusdem ratione duplicata.- dico quod, si circuli
+ἐπ’ lzyperbolae diametris parallelce rectae per conjugatarum diametro-
+rum terminos ducantur, <⁶5³ velocitates siut ut segmenta quaedam
+parallelarum a dato puncto ducta ‚· tempora eruut ut arearum
+sectoreS, rectis a centro ad segmentorum terminos ductis abscissi: ὅ
+
+contra.
+
+Cas. 1. Ponamus primo quod corpus ascendit, centroque D Sc
+semidiametro quovis D B describatur circuli quadrans B E T F, & ,
+

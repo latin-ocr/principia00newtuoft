@@ -1,0 +1,48 @@
+42 DE MOTU CORPOR ΠΜ
+
+Corol. 2. In mediis etiam resistentibuS, si arearum descriptio acce-
+leratur, virium directiones declinant a concursu radiorum versus
+plagam, in 'quam fit motuS.
+
+Sclzolium.
+
+Ἰ
+
+1]
+ἐ
+
+Urgeri potest corpus a vi centripeta composita ex pluribus viri- ’ ⁵³
+
+buS. In hoc casu sensus propositionis est, quod vis illa quae ex
+omnibus componitur, tendit ad punctum S. Porro si vis aliqua agat
+perpetuo secundum lineam superficiei descriptae perpendicularem;
+haec faciet ut corpus deflectatur a plano sui motus: sed quantitatem
+superficiei descriptae nec augebit nec minuet, & propterea in com-
+positione virium negligenda est.
+
+PROPOSITIO ΙΙΙ. THEOREMA III.
+
+Corpus omne, quod radio ad centrum corporis alterius utcunque
+moti ducto describit areas circa centrum illud temporibus propor-
+tionaleS, urgetur vi composita ex vi centripeta tendente ad corpus
+illud alterum, (ἶς’ ex vi omni acceleratrice qua corpus illud
+alterum urgetur.
+
+Sit corpus primum L, & corpus alterum T .- & (per legum corol.
+vi.) si vi nova, quae aequalis ἃ contraria sit illi, qua corpus alterum
+T urgetur, urgeatur corpus utrumque secundum lineas parallelas;
+perget corpus primum L describere circa corpus alterum T areas
+easdem ac prius: vis autem, qua corpus alterum T urgebatur, jam
+destruetur per vim sibi aequalem ἃ contrariam; & propterea (per
+leg. 1.) corpus illud alterum T sibimet ipsi jam relictum vel quies-
+cet, vel movebitur uniformiter in directum: & corpus primum L
+urgente differentia virium, id est, urgente vi reliqua perget areas
+temporibus proportionales circa corpus alterum T describere. Ten-
+dit igitur (per theor. 11.) differentia virium ad corpus illud alterum
+T ut centrum. Q.E.D.
+
+Corol. 1. Hinc si corpus unum L radio ad alterum T ducto
+describit areas temporibus proportionales ; atque de vi tota (sive sim-
+
+plici, sive ex viribus pluribus juxta legum corollarium secundum
+

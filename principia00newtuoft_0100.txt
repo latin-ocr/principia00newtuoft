@@ -1,0 +1,67 @@
+- Ἰ
+5 8 Ι DE M OTU C ORPOR ΠΜ l
+
+Ι Eodem modo demonstratur, quod corpus hac vi centripeta in ι
+centrifugam versa'movebitur in hyperbola opposita.
+
+LEMMA ΧΙΙΙ.
+
+Latus rectum parabolae ad verticem quemvis· pertinens est quadruplum
+distantiae verticis illius ab umbilico figurae.
+Patet ex coniciS.
+
+ 
+
+LEMMA xlv. ‘5-
+
+perpendiculum, quod ab umbilico parabolae ad tangentem ᾔεις demittitur, {3
+medium est proportionale inter distantias umbilici a puncto contactus}
+ὦ* a vertice principali figurae.
+
+Sit enim A P parabola, S umbilicus ejus, A vertex principaliS, ,
+P punctum contactUS, PO ordinatim applicata ad diametrum princi-
+palem, PM tangens diametro
+principali occurrens in M &
+S N linea perpendicularis ab ,
+umbilico in tangentem. Jun- fs ξ
+Α s ὅ
+
+gatur A Ν 8ε ob aequales MS
+
+8ε SP, MN, & NP, MA &
+
+A O parallelae erunt rectae A N
+
+& OP‚· ἃ inde triangulum Μ
+
+SA N rectangulum erit ad A, & simile triangulis aequalibus SNM, ’
+
+SNP: ergo PS est ad SN ut SNad SA. Q.E.D.
+Corol. 1. PSq est ad SNq ut PSad SA.
+
+       
+
+Corol. 2. Et ob datam SA est SNq ut PS.
+
+Corol. 3. Et concursus tangentis cujusvis PM cum recta SN, quae ζ
+ab umbilico in ipsam perpendicularis est, incidit in rectam A Ν, 2-
+quae parabolam tangit in vertice principali.
+
+PROPOSITIO XIII. ‘PROBLE'MA VIII.
+
+l
+
+Ξ
+
+s
+
+ι
+
+Ξ
+
+Moveatur corpus in perimetro parabolae: requiritur lex vis centripetae l
+· ’ tendentis ad umbilicum hujus figurae.
+
+Maneat constructio lemmatiS, sitque P corpus in perimetro para-
+bolae, Sc a loco Q, in quem corpus proxime movetur, age ipsi S P
+

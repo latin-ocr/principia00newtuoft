@@ -1,0 +1,53 @@
+ 
+
+LIBER SECUND US. 269
+
+· ad BDq‚ utque GDq ad BPq, & divisim ut DFq ad BPq—
+>- BDq. Quare cum area DPQ sit utP Q, id est, ut BPq—BDq‚·
+
+erit area D T V ut datum DF q. Decrescit igitur area E D T
+uniformiter singulis temporis particulis aequalibuS, per subductionem
+particularem totidem datarum D T V, & propterea tempori
+proportionalis est. Q. E. D.
+
+CaS. 3. Sit A P velocitas in descensu corporiS, & A Pq÷ 2 BAP
+resistentia, & BDq—A Bq vis gravitatiS, existente angulo DBA
+recto. Et si centro D, vertice principali B, describatur hyperbola
+rectangula BE T V secans productas DA, DP ἆ DQ in E,
+T & V,- erit hyperbolae hujus sector DE T ut tempus totum descensus,
+
+Nam velocitatis incrementum PQ, eique ..
+proportionalis area DPQ, est ut excessus
+gravitatis supra resistentiam, id est, ut B D q
+—A Bq-2> BA P—A Pq seu BDq—
+BPq. Et area DTV est ad aream DPQ
+ut DTq ad DPq, ideoque ut GTq seu
+GDq—BDq ad B Pq‚ utque GDq ad
+BDq‚ & divisim ut BDq ad BDq-BPq.
+Quare cum area DPQ sit ut BDq—BPq,
+erit area D T V ut datum B Dq. Crescit
+igitur area E D T uniformiter singulis temporis particulis aequalibUS,
+per additionem totidem datarum particularum D T V, & propterea
+tempori descensus proportionalis est. Q. E. D..
+
+Corol. Si centro D semidiametro· DA per verticem A ducatur
+
+ 
+
+· arcus A t similis arcui E T, & similiter subtendens angulum A D T:
+
+velocitas A P erit ad velocitatem, quam corpus tempore E D T, in
+spatio non resistente, ascendendo amittere vel descendendo acquirere
+
+’· posset, ut area trianguli DA P ad aream sectoris DA t,· ideoque
+
+ex dato tempore datur. Nam velocitaS, in medio non resistente,
+tempori, atque ideo sectori huic proportionalis est; in medio resistente
+est ut triangulum; & in medio utroque, ubi quam minima est, accedit
+ad rationem. aequalitati5‚ pro more sectoris & trianguli.
+
+Scholz'um.
+
+Demonstrari etiam posset casus in ascensu corporis ubi vis
+gravitatis minor est quam quae exponi possit per D A q seu A Bq÷
+

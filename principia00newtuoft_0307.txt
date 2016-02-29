@@ -1,0 +1,64 @@
+“ LIBER SECUND css. ‘2 6 5
+
+SECTIO ΙΙΙ.
+
+j De motu corporum quibus resistitur partim in ratione velocitatis,
+partim in ejusdem ratione duplicata.
+
+PROPOSITIO XI. THEOREMA VIII.
+
+Si corpori resistitur partim in ratione velocitatis, partim in veloci-
+tatis ratione duplicata, &³ idem sola vi insita in medio similari
+
+movetur .· sumantur autem tempora in progressione arithmetica ,-
+quantitates velocitatibus reciproce proportionales a'ata quadam quan-
+
+titate auctae, erunt in progressione geometrica.
+
+Centro C, asymptotis rectangulis C A D (ι’ & C H, describatur
+hyperbola BE e, & asymptoto C H parallelae sint A B, DE, a' e. In
+asymptoto C D dentur puncta A, G .· Et H
+si tempus exponatur per aream hyperbo-
+licam A B E D uniformiter crescentem 3
+dico quod velocitas exponi potest per
+longitudinem DF, cujus reciproca GD
+una curn data C G componat longitudi-
+nem C D in progressione geometrica cre· o
+
+scenter'n.
+Sit enim areola DE ea' datum temporis
+
+incrementum quam minimum, & erit Da' reciproce ut DE, ideoque
+1
+
+  
+
+'⁵ directe ut C D. Ipsius autem —- decrementum, quod (per hujus
+
+-Ϊ, ffi-
+
+Dd ΟΞΠ CG÷GD
+
+GDq, erit ut GDqseu GDq , id est, ut EID-{-
+
+ 
+
+ 
+
+ 
+
+lem. 11) est
+
+CG Igitur tempore A B E D ‘per additionem datarum particu-
+
+1
+
+³ larum E D a' e uniformiter crescente, decrescit · in. eadem ratione
+
+ 
+
+ 
+
+G D
+cum velocitate. Nam decrementum velocitatis est ut resistentia, hoc
+

@@ -1,0 +1,34 @@
+    
+
+' LIBER PRIMUS. - » ἱ 83
+
+-. applicentur crura BAgCA, primo ad punctum D, deinde ad punc-2
+s tum P, 8( notentur puncta M N in quibus altera crura BL, CL
+ἑ casu utroque se decussant. Agatur recta infinita MN, 8( rotentur
+anguli illi mobiles circum polos suos B, C, ea lege ut crurum BL,
+CL vel B M CM intersectio, quae jam sit m, incidat semper in
+rectam illam infinitam M Ν,· & crurum BA, CA, vel BD, C D
+' intersecti0‚ quae jam sit d, trajectoriam quaesitam P A D d B delinea-
+bit. Nam punctum d (per lem. XXI.) continget sectionem conicam
+
+ 
+
+per puncta B, C transeuntem; 8( ubi punctum m accedit ad puncta
+L, M, Ν, punctum d (per constructionem) accedet ad puncta A DF.
+Describetur itaque sectio conica transiens per puncta quinque A, B,
+C, P, D. Q. E. F. ,
+, Corol. 1. Hinc recta expedite duci potest, quae trajectoriam
+quaesitam in puncto-quovis dato B continget. Accedat punctum d ad
+punctum B, 8( recta B d evadet tangens quaesita.
+
+· Corol. 2. Unde· etiam trajectoriarum centra, diametri 8( latera
+recta inveniri possunt, .ut in corollario secundo lemmatis XIX.
+
+l
+{t
+i Scholz'um. .
+
+· Constructio prior evadet paulo simplicior jungendo BP, 8( in ea, si
+l Opus est, producta capiendo B p ad BP ut est PR-ad -P T: 8(
+'22
+

@@ -1,0 +1,51 @@
+1 06 DE Mo TU C ORPOR UM
+
+LEMMA XXVIII.
+
+Nulla extat figura ovalz‘s cujus area, rectis pro lubitu absczksa, possit
+per aequatz'ones‘ numero terminorum ac dimensionum finitas generaliter
+inveniri.
+
+Intra ovalem detur punctum quodviS, circa quod ceu polum re-
+volvatur perpetuo linea recta, uniformi cum motu, & interea in
+recta illa exeat punctum mobile de polo, pergatque semper ea cum
+velocitate, quae sit ut rectae illius intra ovalem quadratum. Hoc
+motu punctum illud describet spiralem gyris infinitis. Jam si areae
+
+ovalis a recta illa abscissae portio per finitam aequationem inveniri¹
+
+potest, invenietur etiam per eandem aequationem distantia puncti a
+polo, quae huic areae proportionalis est, ideoque omnia spiralis puncta
+per aequationem finitam inveniri possunt: & propterea rectae cu-‚
+jusvis positione datae intersectio cum spirali inveniri etiam potest per
+aequationem finitam. Atqui recta omnis infinite producta spiralem
+secat in punctis numero infinitis, & aequatio, qua intersectio aliqua
+duarum linearum invenitur, exhibet earum intersectiones omnes
+
+radicibus totidem, ideoque ascendit ad tot dimensiones quot sunt
+
+intersectiones, Quoniam circuli duo se mutuo secant in punctis
+duobuS, intersectio una non invenietur nisi per aequationem duarum
+dimensionum, qua intersectio altera etiam inveniatur. Quoniam
+duarum sectionum conicarum quatuor esse possunt intersectioneS,
+non potest aliqua earum generaliter inveniri nisi per aequationem
+quatuor dimensionum, qua omnes simul inveniantur. Nam si inter-
+sectiones illae seorsim quaerantur, quoniam eadem est omnium ἡ lex
+Sc conditi0, idem erit calculus in casu unoquoque, ἃ propterea ea-
+dem semper conclusio, quae igitur debet omnes intersectiones simul
+
+complecti & indifferenter exhibere. Unde etiam intersectiones ⁸
+
+sectionum conicarum & curvarum tertiae potestatiS, eo quod sex
+
+esse possunt, simul prodeunt per aequationes sex dimensionum,
+81 intersectiones duarum curvarum tertiae potestatiS, quia novem esse
+possunt, simul prodeunt per aequationes dimensionum novem. Id
+nisi necessario fieret, reducere liceret problemata omnia solida ad
+plana, & plusquam solida ad solida. Loquor hic de curvis potestate
+irreducibilibuS. Nam si aequatio, per quam curva definitur, ad
+
+»xv-⁷
+
+”rvtf‘t
+

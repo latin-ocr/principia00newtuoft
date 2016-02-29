@@ -1,0 +1,40 @@
+LIBER PRIMUS. · 1 89
+
+SECTIO XII.
+
+De corporum spbaericorum viribus attractiois.
+
+PROPOSITIO LXX. THEOREMA XXX.
+
+Si ad splzaericae superficiei puncta singula tendant vires aequales
+centripetae decrescentes in duplicata ratione distantiarum a punctis .·
+dico quod corpusculum intra superficiem constitutum his viribus
+nullam in partem attrahitur.
+
+Sit HI K L superficies illa sphaerica‚ & P corpusculum intus con-
+stitutum. Per P agantur ad hanc superficiem lineae duae HK, IL,
+arcus quam minimos H J, K L intercipientes; Sc, ob triangula H ΡΙ,
+LP K (per corol. 3 lem. vn) similia,
+arcus illi erunt distantiis ΗΡ, LP pro-
+portionales; & superficiei sphaericae par-
+ticulae quaevis ad HI & J< L, rectis per
+punctum P transeuntibus undique ter- ὲ
+minatae, erunt in duplicata illa ratione.
+Ergo vires harum particularum in corpus
+P exercitae sunt inter se aequales, Sunt
+enim ut particulae directe, 8z quadrata
+distantiarum inverse. Et hae duae rationes
+componunt rationem aequalitatis, Attractiones igitur, in contrarias
+partes aequaliter factae‚ se mutuo destruunt. Et simili argumento,
+attractiones omnes per totam sphaericam superficiem a contrariis
+attractionibus destruuntur. Proinde corpus P nullam in partem his
+ᾖ attractionibus impellitur. Q. E. D.
+
+ 
+
+PROPOSITIO LXXI. THEOREMA XXXI.
+
+I isdem positis, dico quod ·corpusculum extra splzaericam superficiem
+constitutum attrahitur ad centrum sphaerae, vi reciproce proportionali
+quadrato distantia· sua· ab eodem centro.
+

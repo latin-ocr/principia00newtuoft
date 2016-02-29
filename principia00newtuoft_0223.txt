@@ -1,0 +1,44 @@
+ 
+
+LIBER PRIMUS. 1 8 1
+
+Corol: 1 7. Cum autem linea LM nunc major sit nunc minor quam·
+radius P T, exponatur. vis mediocris LM per radium illum P T ,-
+& erit haec ad vim mediocrem S K vel S N (quam exponere licet
+per S T) ut longitudo P T ad longitudinem S T.‘ ‘Est autem vis
+mediocris S N vel S T, qua corpus T retinetur in orbe suo circum S,
+ad vim, qua corpus P retinetur in orbe suo circum T, in ratione
+composita ex ratione radii S T ad radium P T, Sc ratione duplicata
+temporis periodici corporis P circum T ad tempus periodicum corporis
+T circum S. Et ex aequo, vis mediocris L M ad vim, qua corpus
+P retinetur in orbe suo circum T (quave corpus idem P, eodem
+tempore periodicO, circum punctum quodvis immobile T ad distantiam
+P T revolvi posset) est in ratione illa duplicata periodicorum tem-
+porum. Datis igitur temporibus periodicis una cum distantia P T,
+datur vis mediocris L M ,· δε ea data, datur etiam vis M N
+quamproxime per analogiam linearum P T, MN.
+
+Corol. 18. Iisdem legibuS, quibus corpus P circum corpus T
+revolvitur, fingamus corpora plura fluida circum idem T ad aequales
+ab ipso distantias moveri; deinde ex his contiguis factis conflari
+annulum fluidum, rotundum ac corpori T concentricum; 8c singu-
+lae annuli parteS‚ motus suos omnes ad legem corporis P peragend0‚
+propius accedent ad corpus T, 81 celerius movebuntur in conjunc-
+tione & oppositione ipsarum & corporis S, quam in quadraturis,
+Et nodi annuli hujuS, seu intersectiones ejus cum plano orbitae
+corporis S vel T, quiescent in syzygiis; extra syzygias vero move-
+buntur in antecedentia, & velocissime quidem in quadraturiS, tardius
+aliis in locis, Annuli quoque inclinatio variabitur, & axis ejus
+singulis revolutionibus oscillabitur, completaque revolutione ad
+pristinum situm redibit, nisi quatenus per praecessionem nodorum
+circumfertur.
+
+Corol. 19. Fingas jam globum corporis T, ex materia non fluida
+constantem, ampliari & extendi usque ad hunc annulum, & alveo
+per circuitum excavato continere aquarn, motuque eodem peri-
+odico circa axem suum uniformiter revolvi. Hic liquor per vices
+acceleratus ἃ retardatus (ut in superiore corollario) in syzygiis
+velocior erit, in quadraturis tardior quam superficies globi, & sic fluet
+in alveo refluetque ad modum mariS. Aqua, revolvendo circa globi
+centrum quiescenS, si tollatur attractio corporis S, nullum acquiret
+

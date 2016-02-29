@@ -1,0 +1,40 @@
+1 60 DE Μ OTU CORPOR ΠΜ
+
+prop. XLI cum corol. suo 2) ratio determinandi curvam A Pp facile
+apparet. Tum ex singulis vestigii punctis P, erigendo ad planum
+A ΟΡ perpendicula P T superficiei curvae occurrentia in T, dabuntur
+singula tra'jectoriae puncta T. Q. E. J.
+
+SECTIO XI.
+
+De motu corporum viribus centripetis se mutuo petentium.
+
+Hactenus exposui motus corporum attractorum ad centrum
+immobile, quale tamen vix extat in rerum natura. Attractiones enim
+fieri solent ad corpora; & corporum trahentium & attractorum ’
+actiones semper mutuae sunt & aequaleS, per legem tertiam: adeo
+ut neque attrahens possit quiescere neque attractum, si duo sint
+corpora, sed ambo (per legum corollarium quartum) quasi attractione
+mutua, circum gravitatis centrum commune revolvantur: & si plura
+sint corpora, quae vel ab unico attrahantur, & idem attrahant, vel
+omnia se mutuo attrahant; haec ita inter se moveri debeant, ut
+gravitatis centrum commune vel quiescat, vel uniformiter moveatur in
+directum. Qua de causa jam pergo motum exponere corporum se
+mutuo trahentium, considerando vires centripetas tanquam attrac-
+tioneS, quamvis fortasse, si physice loquamur, verius dicantur
+impulsus, In mathematicis enim jam versamur; & propterea, missis
+disputationibus physiciS‚ familiari utimur sermone, quo possimus a
+lectoribus mathematicis facilius intelligi.
+
+PROPOSITIO LVII. THEOREMA XX.
+
+Corpora duo se invicem trahentia describunt, ἐπ’ circum commune
+centrum gravitatis, ὣ* circum se mutue, figuras similes,
+
+Sunt enim distantiae corporum a communi gravitatis centro
+reciproce proportionales corporibus; atque ideo in data ratione ad
+invicem, & componendo in data ratione ad distantiam totam inter
+corpora. Feruntur autem hae distantiae circum terminum suum ’ἶ
+
+1
+

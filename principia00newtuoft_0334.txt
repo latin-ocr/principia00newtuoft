@@ -1,0 +1,44 @@
+292 DE MOTU CORPOR UM
+
+distantiae a centro, densitas erit reciproce ut cubus distantiae. F in-
+gatur quod cubus vis comprimentis sit ut quadrato-cubus densitatiS,
+& si gravitas est reciproce ut quadratum distantiae, densitas erit
+reciproce in sesquiplicata ratione distantiae. Fingatur quod vis com-
+primens sit in duplicata ratione densitatis, & gravitas reciproce in
+ratione duplicata distantiae, & densitas erit reciproce ut distantia.
+Casus omnes percurrere longum esset. Caeterum per experimenta
+constat quod densitas aeris sit ut vis comprimens vel accurate vel
+saltem quam proxime: & propterea densitas aeris in atmosphaera
+terrae est ut pondus aeris totius incumbentis, id est, ut altitudo mercurii
+
+in barometrO.
+
+PROPOSITIO XXIII. THEOREMA XVIII.
+
+Si fluidi ex particulis se mutuo ficgz'entibns compositi densitas sit ut
+compressio, vires centrzfugae particularum sunt reciproce proportion-
+ales distantiis centrorzcm snorum. Et vice versa, particulae viribus
+quae sunt reciproce proportionales distantiis centrorum suorum se
+mutuo ficgientes componunt fluidum elasticum, cujus densitas est
+compressioni proportionalis.
+
+Includi intelligatur fluidum in spatio cubico A C E, dein com-
+pressione redigi in spatium cubicum minus a c e‚· 82 particularum,
+similem situm inter se in utroque spatio obtinentium, distantiae erunt
+ut cuborum latera A B, a b‚· ἃ mediorum densitates reciproce ut spa-
+tia continentia A B cub. ἃ. ab cub. In cubi majoris latere plano
+A B C D capiatur quadratum DP
+aequale lateri plano cubi minoris
+db,· ἃ ex hypothesi, pressio, qua
+quadratum D P urget fluidum
+inclusum, erit ad pressionem, qua
+illud quadratum db urget fluidum
+inclusum, ut medii densitates ad
+invicem, hoc est, ut ab cab. ad
+A B cub. Sed pressio, qua quadratum DB urget fluidum inclusum,
+est ad pressionem, qua quadratum DF urget idem fluidum, ut quadra-
+
+tum DB ad quadratum DP, hoc est, ut A B quad. ad ab quad. ErgO,
+
+   
+

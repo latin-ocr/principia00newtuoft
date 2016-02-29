@@ -1,0 +1,60 @@
+ 
+
+LIBER PRIMUS. 2 2 1.
+
+Scholz'um.
+
+Si corpus aliquod perpendiculariter versus planum datum trahatur,
+& ex data lege attractionis quaeratur motus corporis: solvetur
+problema quaerendo (per prop. XXXIX) motum corporis recta
+descendentis ad hoc planum, & (per legum -corol. 11) componendo
+- motum istum cum uniformi motu, secundum lineas eidem plano
+parallelas facto. Et contra, si quaeratur lex attractionis in planum
+secundum lineas perpendiculares factae‚ ea conditione ut corpus
+attractum in data quacunque curva linea moveatur, solvetur problema
+operando ad exemplum problematis tertii.
+
+Α Operationes autem contrahi solent resolvendo ordinatim applica-
+tas in series convergenteS. Ut si ad basem A in angulo quovis
+dato ordinatim applicetur longitudo B, quae sit ut basis dignitas
+
+quaelibet A '² ; ἃ quaeratur vis qua corpuS‚ secundum positionem
+ordinatim applicatae, vel in basem attractum vel a basi fugatum,
+moveri possit in curva linea, quam ordinatim applicata termi-
+
+no suo superiore semper attingit: Suppono basem augeri parte
+
+quam minima O, & ordinatim applicatam Ᾰ-Ῑ-ῙῩΙ '‘— resolvo in
+
+m m—n m—2 n
+
+seriem infinitam A 7-1-φὲ OA ⁷⁹ mzzjz-Znn OOA '‘ &o at-
+
+ 
+
+ 
+
+que hujus termino in quo O duarum est dimensionum, id est,
+
+m--2n
+
+termino Μῗῖῖη O O A '³ vim proportionalem esse suppono, Est
+
+ 
+
+ἠ’-2η
+
+Μῃίι-ηῃῑκ Α ’“ , vel quod perinde est, ut
+
+ 
+
+⁴ igitur vis quaesita ut
+mma—unm B ”¹ . Ut si ordinatim applicata parabolam attingat,
+existente m=2‚ Sc n: 1: fiet vis ut data 2 ΒΟ, ideoque dabitur.
+Data igitur vi corpus movebitur in parabola, quemadmodum Galz‘laeus
+demonstravit. Quod si ordinatim applicata hyperbolam attingat,
+existente m=o- 1, & n= 1 ; fiet vis ut 2 A*3 seu 2 13³: ideoque vi.
+quae sit ut cubus ordinatim applicatae, corpus movebitur in hyperbola,
+
+ 
+

@@ -1,0 +1,60 @@
+    
+
+LIBER PRIMUS. 7 Ι
+
+’Ϊ locabitur punctum Z in hyperbola cujus umbilici sunt A & B, &
+principalis axis differentia illa data. Sit axis ille MN. Cape PM
+ad MA ut est MN ad A B, & erecta PR perpendiculari ad A B,
+“ demissaque Z R perpendiculari ad PR,· erit, ex natura hujus hyper-
+bolae, Z R ad A Z ut est MN ad A B. Simili discursu punctum Z
+
+,ἓ locabitur in alia hyperbola‚ cujus umbilici sunt A, C δε principalis*
+'axis differentia inter A Z ἃ C Z, ducique potest QS ipsi A C
+perpendiculariS, ad quam si ab hyperbolae hujus puncto quovis Z
+demittatur normalis Z S, haec fuerit ad A Z ut est differentia inter
+
+A Z & C Z ad A C. Dantur ergo rationes ipsarum Z R & Z S ad
+
+Α Α Ζ, 8τ. idcirco datur earundem Z R
+¹r ⁴ & Z S ratio ad invicem; ideoque. si
+rectae RP, S Q concurrant in T, ἃ
+agantur TZ ἃ TA, figura TRZS
+dabitur specie, & recta T Z in qua
+punctum Z alicubi locatur, dabitur
+
+positione. Dabitur etiam recta TA,
+
+V
+ἰ ut & angulus AT Z ,· & ob datas
+rationes ipsarum A Z ac T Z ad Z S
+i dabitur earundem ratio ad invicem;
+81 inde dabitur triangulum A T Z,
+
+cujus vertex est punctum Z. QEJ. ·
+Cas. 2. Si duae ex tribus lineiS, puta A Z & Β Ζ, aequantur, ita
+
+ᾗ age rectam Τ Ζ, ut bisecet rectam A B,· dein quaere triangulum
+t
+k
+
+ 
+
+· ’ Α TZ ut supra.
+
+ξ’ Cas, 3. Si omnes tres aequantur, locabitur punctum Z in centro
+circuli per puncta A, B, C transeuntis Q. E. J.
+Solvitur etiam hoc lemma problematicum per librum tactionum
+
+'Apollonii a V ieta restitutum.
+
+PROPOSITIO XXI. PROBLEMA XIII.
+
+‚⁸ T rajectoriam circa datum umbilicum describere, quae transibit per
+puncta data ὥ* rectas positione datas continget.
+
+Detur umbilicus S, punctum P, & tangens T R, & inveniendus
+sit umbilicus alter H. Ad tangentem demitte perpendiculum S T, &
+produc idem ad Y, ut sit T Y aequalis S T, & erit Υ Η aequalis axi
+
+5
+
