@@ -1,0 +1,53 @@
+LIBER. SECUNDUS, 251
+
+ἒ ⁹ areae totae ab initio genitae A BN K 8c A T D ut spatia tota ab
+’ , initio descensus descripta. Q. E. D.
+
+   
+
+Corol. 2. Idem consequitur etiam de spatio quod in ascensu
+describitur. Nimirum quod spatium illud omne sit ad spatium, uni-
+formi cum velocitate A C eodem tempore descriptum, ut est area
+
+  ABnkadsectoremADt.
+
+Corol. 3. Velocitas corporis tempore A Τ Β cadentis est ad ve-
+locitatem, quam eodem tempore in spatio non resistente acquireret,
+ut triangulum A PD ad sectorem hyperbolicum A Τ Β. Nam
+velocitas in medio non resistente foret ut tempus A Τ Β, & in
+medio resistente est ut A P, id est, ut triangulum A PD. Et ve-
+locitates illae initio descensus aequantur inter se, perinde ut areae
+illaeA TD,APD.
+
+Corol. 4. Eodem argumento velocitas in ascensu est ad velocita-
+tem, qua corpus eodem tempore in spatio non resistente omnem suum
+ascendendi motum amittere posset, 'ut triangulum Α p D ad sectorem
+circularem A tD,· sive ut recta A p ad arcum A t.
+
+Corol. 5. Est igitur tempuS, quo corpus in medio resistente ca-
+dendo velocitatem ΑΡ acquirit, ad tempuS, quo velocitatem maxi-
+mam A C in spatio non resistente cadendo acquirere posset, ut sector
+
+’ Α Β T ad triangulum A D C: & tempuS, quo velocitatem Α p in
+
+medio resistente ascendendo possit amittere, ad tempus quo velocita-
+tem eandem in spatio non resistente ascendendo posset amittere, ut
+arcus A t ad ejus tangentem A p.
+
+Corol. 6. Hinc ex dato tempore datur spatium ascensu vel de-
+scensu descriptum. Nam corporis in infinitum descendentis datur
+velocitas maxima (per corol. 2 & 3 theor. V1 lib.11) indeque datur
+
+’ἕ tempus quo corpus velocitatem illam in spatio non resistente cadendo
+
+posset acquirere. Et sumendo sectorem A D T vel A Dt ad trian-
+gulum A DC in ratione temporis dati ad tempus modo inventum;
+'dabitur tum velocitas A P vel A p, tum area A B NK vel A B nb,
+quae est ad sectorem A D T vel A Dt ut spatium quaesitum ad
+spatium, quod tempore dato, cum velocitate illa maxima jam ante
+inventa, uniformiter describi potest.
+
+Corol. 7. Et regrediendO, ex dato ascensus vel descensus spatio
+
+ABnkvel ABNK, dabitur tempusADt vel ADT.
+

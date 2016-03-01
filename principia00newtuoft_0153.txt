@@ -1,0 +1,45 @@
+LJBER PRIMUS. 1 Ι 1
+
+quantitas areae abscindendae tempori proportionalis, Sit ea A, & fiat
+conjectura depositione rectae S P, quae aream A P S abscindat verae
+proximam. Jungatur ΟΡ, & ab A ἃ Ρ ad asymptoton agantur AI,
+PK asymptoto alteri paral-
+lelae‚ & per tabulam logarith-
+morum dabitur area A IKP,
+’ eique aequalis area OPA,
+-quae subducta de triangulo
+ΟΡ S relinquet aream ab·
+scissam A PS. Applicando
+areae abscindendae A ἃ ab-
+scissae A Ρ S differentiam
+duplam 2 Aps-2 A vel
+2 A·-2 A PS ad lineam
+SN, quae ab umbilico Sin 0 'f A S
+tangentem ΤΡ 'perpendicularis est, orietur longitudo chordae ΡΩ.
+Inscribatur autem chorda illa Ρ Q inter A & Ρ, si area abscissa Α PS
+⁴ major sit area abscindenda A, secus ad puncti Ρ contrarias partes ε &
+punctum Q erit locus corporis accuratior. Et computatione repetita
+invenietur idem accuratior in perpetuum.
+
+Atque his calculis problema generaliter confit analytice. Verum
+usibus astronomicis accommodatior est calculus particularis qui sequitur.
+Existentibus A 0, OB, OD semiaxibus ellipseOS, 8c L ipsius latere
+recto, ac D differentia inter semiaxem D
+minorem OD & lateris recti semissem
+ὲ L; quaere tum angulum Y, cujus
+sinus sit ad radium ut est rectangulum
+‚sub differentia illa D, & semisumma A
+axium A 04 OD ad quadratum axis
+majoris A B ‚· tum angulum Z, cujus
+sinus sit ad radium ut est duplum
+rectangulum sub umbilicorum distantia
+S H 81 differentia illa D ad triplum quadratum semiaxis majoris A O.
+His angulis semel inventis; locus corporis sie deinceps determinabitur.
+Sume angulum T proportionalem tempori quo arcus BP descriptus
+est, seu motui medio (ut loquuntur) aequalem; & angulum V,
+primam medii motus aequationem, ad-angulum Y, aequationem maxi-
+
+ 
+
+ 
+

@@ -1,0 +1,52 @@
+  
+
+“ LIBER SEC UND US. 2 85
+
+’ξ [addita vi priori facit pressionem duplam.. Hac pressione, pro
+
+2 ''mensura sua, & insuper vi propriae gravitatiS, id est, pressione tripla,
+
+urgetur superficies tertia C G L. Et similiter pressione quadrupla
+urgetur superficies quarta, ⁴quintupla quinta, & sic deinceps, Pressio
+igitur qua superficies unaquaeque urgetur, non est ut quantitas solida
+fluidi incumbentiS, sed ut numerus orbium ad usque summitatem
+- fluidi; & aequatur gravitati orbis infimi multiplicatae per numerum
+orbium: hoc est, gravitati solidi cujus ultima ratio ad cylindrum
+praefinitum (si modo orbium augeatur numerus & minuatur crassitudo
+in infinitum, sic ut actio gravitatis a superficie infima ad supremam
+continua reddatur) fiet ratio aequalitatis, Sustinet ergo superficies
+infima pondus cylindri praefiniti. Q. E. D. Et simili argumentatione
+patet propositio, ubi gravitas decrescit in ratione quavis assignata
+distantiae a centro, ut & ubi fluidum sursum rarius est, deorsum
+densius, Q. E. D.
+
+Corol. 1. Igitur fundum non urgetur a toto fluidi incumbentis
+pondere, sed eam solummodo ponderis partem sustinet quae in
+propositione describitur3 pondere reliquo a fluidi figura fornicata
+sustentatO.
+
+· Corol. 2. In aequalibus autem a centro distantiis eadem semper est'
+pressionis quantitaS‚ sive superficies pressa sit horizonti parallela vel
+perpendicularis vel obliqua; sive fluidum, a superficie pressa sursum
+continuatum, surgat perpendiculariter secundum lineam rectam, vel
+serpit oblique per tortas cavitates & canaleS, easque regulares vel
+maxime irregulareS, amplas vel angustissimas Hisce circumstantiis
+¹pressionem nil mutari colligitur, applicando demonstrationem theo-
+rematis hujus ad casus singulos fluidorum.
+
+Corol. 3. Eadem demonstratione colligitur etiam (per prop. xlx)
+
+’ quod fluidi gravis partes nullum, ex pressione ponderis incumbentiS,
+
+ 
+
+acquirunt motum inter se; si modo excludatur motus qui ex
+condensatione oriatur.
+
+· Corol. 4. Et propterea si aliud ejusdem gravitatis specificae corpuS,
+quod sit condensationis experS, submergatur in hoc fluido, id ex
+pressione ponderis incumbentis nullum acquiret motum: non
+descendet, non ascendet, non cogetur figuram suam mutare. ’ Si
+sphaericum est manebit sphaericum, non obstante pressione; si quadra-
+tum est manebit quadratum : idque sive molle sit, sive fluidissimum ;
+

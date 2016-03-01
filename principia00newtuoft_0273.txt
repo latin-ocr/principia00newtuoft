@@ -1,0 +1,49 @@
+ 
+
+DE MOTU CORPORUAI, &a ’ 231
+
+PROPOSITIO 11. THEOREMA II.
+
+Si corpori resistitur in ratione velocitatis, ὢ* idem sola vi insita per
+medium similare moveatur, sumantur autem tempora aequalia ,·
+velocitates in principiis singulorum temporum sunt in progressione
+geometrica, ὢ) spatia singulis temporibus descripta sunt ut velocitates,
+
+Cas, 1, Dividatur tempus in particulas aequales ; 8( si ipsis
+particularum initiis agat vis resistentiae impulsu unico, quae sit ut
+velocitas : erit decrementum velocitatis singulis temporis particulis ut
+eadem velocitas, ‘Sunt ergo velocitates differentiis suis proportionaleS‚
+8( propterea (per lem, 1 lib, 11) continue proportionales, Proinde
+si ‘ex aequali particularum numero componantur tempora quaelibet
+aequalia, erunt velocitates ipsis temporum initiis, ut termini in
+progressione continua, qui per saltum capiuntur, omisso passim aequali
+terminorum intermediorum numero, Componuntur autern horum
+terminorum rationes ex rationibus inter se iisdem terminorum
+intermediorum aequaliter repetitiS‚ 8( propterea eae quoque rationes
+compositae inter se eaedem sunt. Igitur velocitateS‚ his terminis
+proportionaleS‚ sunt in progressione geometrica, Minuantur jam
+aequales illae temporum particulae‚ 8( augeatur earum numerus in
+infinitum, eo ut resistentiae impulsus reddatur continuus; 8( velocitates
+in principiis aequalium temporum, semper continue proportionaleS,
+erunt in hoc etiam casu continue proportionales, Q, E, D.
+
+Cas. 2. Et divisim velocitatum differentiae, hoc est, earum partes
+Singulis temporibus amissae‚ sunt ut totae: spatia autem singulis
+temporibus descripta sunt ut velocitatum partes amissae (per prop, 1
+lib 11) 8( propterea etiam ut totae, Q. E. D.
+
+Corol, Hinc si asymptotis rectangulis A C, Ἀ H
+CH describatur hyperbola B G, sintque A B, G
+
+D G ad asymptoton A C perpendiculareS‚ &
+
+exponatur tum corporis velocitas tum resistentia B
+
+medii, ipso motus initio, per lineam quamvis da-
+tam A C, elapso autem tempore aliquo per lineam
+
+indefinitam DC: exponi potest tempus per aream A BGD 8( spatium
+eo tempore descriptum per lineam A D. Nam si area illa per motum
+
+A. Ῐ) C
+

@@ -1,0 +1,52 @@
+LIBER PRIMUS. 77
+
+ 
+
+Ι >τὲ
+
+Μ, LEMMA XIX.
+ξ 1 Invenire puuctum P, a quo si
+’ recloe quatuor P Q, P R,
+P S, P T ad alias totidem
+
+ἢ positione datas rectas A B,
+
+“ CD, AC, B D, sz'ugulae ad
+singulas, z'n datz‘s angulis
+ducantur, rectangulum sub
+
+duabus ductis, P Q >< Ρ R,
+
+sit ad rectangulum sub aliis
+
+duabus, P S Χ ΡΤ, iu data
+
+ratione.
+
+ 
+
+Lineae A B, C D, ad quas rectae duae P Q, P R unum rectangu-
+lorum continentes ducuntur, conveniant curn aliis duabus positione
+datis lineis in punctis A, B, C, D. Ab eorum aliquo A age rectam
+quamlibet A H, in qua velis punctum P reperiri. Secet ea lineas
+oppositas B D, C D, nimirum B D in H 8ε C D in I, Sc ob datos
+omnes angulos figurae, dabuntur rationes PQ ad PA & PA ad
+P S, ideoque ratio P Q ad P S. Auferendo hanc a data ratione P Q
+xP'R ad PS ><Ρ Τ, dabitur ratio PR ad P Τ, & addendo datas
+rationes P I ad P R, & P T ad P H dabitur ratio P I ad P Η, atque
+ideo punctum P. Q. Es.
+
+Corol. 1. Hinc etiam ad loci punctorum infinitorum P punctum
+quodvis D tangens duci potest. Nam chorda PD, ubi puncta P
+ac D conveniunt, hoc est, ubi A H ducitur per punctum D, tan-
+gens evadit. Quo in casu, ultima ratio evanescentium [Ρ & PH
+invenietur ut supra. Ipsi igitur A D duc parallelam C F, occurren-
+tem BD in F, ἃ in ea ultima ratione sectam in E, & DE tangens
+erit, propterea quod C F & evanescens [Η parallelae sunt, &in E
+& P similiter sectae. .
+
+Corol. 2. Hinc etiam locus punctorum omnium P definiri potest.
+
+Per quodvis punctorum A, B, C, D, puta A, duc loci tangentem
+A E, 8c per aliud quodvis punctum B duc tangenti parallelam BF
+

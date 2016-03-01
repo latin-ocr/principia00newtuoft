@@ -1,0 +1,48 @@
+ 
+
+DE M OTU CORPOR UM, &a 29
+
+A K b L c M d D, ’ circumscripta A al b m c n d o E, <⁰9³ curvilinea
+A a b c d E, sunt rationes aequalz'tatzk.
+
+Nam figurae inscriptae 81 circumscriptae differentia est summa
+parallelogrammorum K l, L m, Mn, De, hoc est (ob aequales omnium
+bases) rectangulum sub unius basi K b & altitudinum summa A a,
+
+. - id est, rectangulum A B la. Sed hoc rectangulum, eo quod latitudo
+
+ejus AB in infinitum minuitur, fit minus quovis dato. Ergo
+(per lemma 1) figura inscripta & circumscripta 81 multo magis figura
+curvilinea intermedia fiunt ultimo aequaleS. Q. E. D.
+
+LEMMA III.
+
+Eaea'em rationes ultima· sunt etiam rationes aeqaalz’tatz's, ubi parallelo-
+grammorum latitudines A B, B C, C D, διο. sunt z'naeqaaleS, ὢ*
+omnes minuuntur z'n infinitum.
+
+Sit enirn A F aequalis latitudini maximae, & compleatur parallelo-
+grammum F A a f Hoc erit majus quam differentia figurae inscriptae
+& figurae circumscriptae; at latitudine sua A F in infinitum diminuta,
+minus fiet dato quovis rectangulo. Q. E. D.
+
+Corol. 1. Hinc summa ultima parallelogrammorum evanescentium
+coincidit omni ex parte cum figura curvilinea. ’
+
+Corol. 2. Et multo magis figura rectilinea, quae chordis evanes-
+centium arcuum ab, bc, ca', &e comprehenditur, coincidit ultimo
+cum figura curvilinea.
+
+Corol. 3. Ut & figura rectilinea circumscripta quae tangentibus
+eorundem arcuum comprehenditur.
+
+Corol. 4. Et propterea hae figurae ultimae (quoad perimetros acE‚)
+non sunt rectilineae, sed rectilinearum limites curvilinei.
+
+L E M M A I V.
+Sz· in duabus figuris A ac E, P prT, inscribantur (ut supra) a'uae
+
+parallelogrammorum serz'eS, sitque z'a'em amborum nameru5‚ ὅτ’
+ubi latitudines in infinitum diminuuntur, rationes ultz'moe parallelo-
+grammorum in una figura aa' parallelogramma in altera, singulorum
+

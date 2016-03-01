@@ -1,0 +1,50 @@
+86, DE MQTU CORPOR ΠΜ
+
+PROPOSITIO XXIV. PROBLEMA XVI.
+
+T rayectoriam describere, quae transibit per dala tria puncta, (ξδ’ rectas
+duas positione datas continget.
+
+Dentur tangentes H J, J< L ἃ puncta B, C, D. Per punctorum
+duo quaevis B, D age rectam infinitam BD tangentibus occurren-
+tem in punctis H, K. Deinde etiam per alia duo quaevis C, D age
+infinitam C D tangentibus occurrentem in punctis l, L. xAetas ita
+seca in R & S, ut sit HR ad KR ut est media proportionalis inter
+BH & HD ad mediam proportionalem inter B K & K D,· 8t.
+
+IS ad L S ut est media proportionalis inter CI & ID ad mediam .· -
+
+proportionalem inter CL & LD. Seca autem pro lubitu vel inter
+puncta K 8c H, J & L, vel extra eadem ; dein age R S secantem
+tangentes in A & P, & erunt A & P puncta contactuum. Nam si
+
+A & P supponantur esse puncta contactuum alicubi in tangentibus -
+sita; 8c per punctorum H, J, K, L quodvis J, in tangente alterutra J
+
+H l situm, agatur recta J Υ tan-
+genti alteri K L parallela‚ quae
+occurrat curvae in X & Υ, Sc in
+ea sumatur [Ζ media propor-
+tionalis inter IX ἃ [ Υ.· erit,
+ex coniciS‚ rectangulum XI Υς
+seu [Ζ quad. ad LP quad. ut
+rectangulum C J D ad rectangu-
+lum C L D, id est (per construc-
+tionem) ut Sl quad. ad SL quad.
+atque ideo [Ζ ad LP ut Slad
+S L. Jacent ergo puncta S, P, Z
+
+in una recta. Porro tangentibus concurrentibus m G, erit (ex conicis)
+rectangulum XI Υ seu [Ζ quad. ad I A quad. ut GP quad. ad GA
+quad. ideoque [Ζ ad [Α ut GP ad G A. Jacent ergo puncta Ρ, Ζ
+ἃ A 1n una recta, ideoque puncta S, Ρ & A suntin una recta. Et
+eodem argumento probabitur quod puncta R P & A sunt in una
+recta. Jacent igitur puncta contactuum A & P 1n recta R S. Hisce
+
+autem inventis trajectoria describetur ut in casu primo· problematis
+superioris Q. E. F.
+
+ 
+
+ 
+

@@ -1,0 +1,32 @@
+DE
+
+Mo TU CORPORUM
+
+LIBER SECUNDUS.
+
+SECTIO Ι.
+
+De motu corporum quibus resistitur in ratione velocitatis.
+
+PROPOSITIO Ι. THEOREMA I.
+
+Corporis, cui resistitur in ratione velocitatis, motus ex resistentia
+amissus est ut spatium movendo confectum.
+
+AM cum motus singulis temporis particulis aequalibus amissus
+sit ut velocitaS‚ hoc est, ut itineris confecti particula: erit,
+componendo, motus toto tempore amissus ut iter totur'h. Q. E. D.
+Corol. Quare si corpus, gravitate omni destitutum, in spatiis liberis
+sola vi insita moveatur; ac detur tum motus totus sub initio, tum
+etiam motus reliquus post spatium aliquod confectum: dabitur
+spatium totum quod corpus infinito tempore describere potest. Erit
+enim spatium illud ad spatium jam descriptum, ut motus totus sub
+initio ad motus illius partem amissam.
+
+LEMMA Ι.
+
+Quantitates differentiis suis proportionales sunt continue proportionales. ’
+
+Sit A ad A-13 ut B ad B-C & C ad C—D δια, 8( conver-
+tendofietAadButBadC&Cad D&c. Q.E.D.
+

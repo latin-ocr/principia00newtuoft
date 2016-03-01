@@ -1,0 +1,60 @@
+2 16 DE¹ MOTU CORPOR ΠΜ
+
+PROPOSITIO XCI. PROBLEMA XLV.
+
+Invenzre attractzonem corpusculz sztz‘ m axe solz'dz rotundi, ad cujus
+puncta szngula tendunt vzres aequales centrz'petce zn quacunque
+distantiarum ratzone decrescentes.
+
+In solidum DE C G trahatur corpusculum Ρ, situm in ejus axe
+A B. Circulo quolibet RF S ad
+hunc axem perpendiculari secetur
+hoc solidum, & in ejus semidiame-
+tro F S, in plano aliquo PA LK B
+per axem transeunte, capiatur (per
+prop. xc) longitudo F K vi, qua
+corpusculum Ρ in circulum illum
+attrahitur, proportionalis, Tangat
+autem punctum K curvam lineam
+LKJ, planis extimorum circulorum
+A L & B l occurrentem in L & l‚· & erit attractio corpusculi Ρ in
+solidum ut area L A BJ. Q. E. l.
+
+Corol. 1. Unde si solidum
+cylindrus sit, p'arallelogrammo
+A DE B circa axem A B revol-
+uto descriptus, & vires centripetae
+in singula ejus puncta tendentes
+sint reciproce ut quadrata distan-
+tiarum a punctis: erit attractio
+
+ 
+
+ 
+
+corpusculi Ρ in hunc cylindrum
+UtAB- PE÷PD, Nam ordi· Lis
+
+ 
+
+natim applicata F K (per corol. 1 prop. xc) erit ut Ι-ΞΞ. Hujus
+pars 1 ducta in longitudinem A B, describit aream 1 ><A B. ·
+
+PF
+
+ 
+
+& pars altera ducta in longitudinem Ρ Β, describit
+
+ 
+
+aream 1 in PE- DA (id quod ex curvae L K I qua-
+dratura facile ostendi potest); & similiter pars eadem ducta
+in longitudinem Ρ Α describit aream 1 in ΡΒ- A D, ductaque
+in ipsarum PB, PA differentiam AB describit arearum differentiam
+1 in PE— P D De contento primo 1 ><A B auferatur con-
+
+ 
+
+ 
+

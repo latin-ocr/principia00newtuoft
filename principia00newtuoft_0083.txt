@@ -1,0 +1,52 @@
+  
+
+LIBER PRIMUS. 4 1
+
+sunt inter se ut arcuum aequalibus temporibus descriptorum sagittae
+
+Ὺ illae quae convergunt ad centrum virium, & chordas bisecant ubi
+
+ 
+
+arcus i-lli in infinitum diminuuntur. Nam hae sagittae sunt semisses
+diagonalium, de quibus egimus in corollario tertio. ⁵
+
+Corol. 5. Ideoque vires eaedem sunt ad vim gravitatiS‚ ut hae
+
+sagittae ad sagittas horizonti perpendiculares arcuum parabolicorum‚
+
+quos projectilia eodem tempore describunt.
+
+Corol. 6. Eadem omnia obtinent per legum corol. v. ubi plana, in
+quibus corpora moventur, una cum centris virium, quae in ipsis sita
+sunt, non quiescunt, sed moventur uniformiter in directum.
+
+PROPOSITIO ΙΙ. THEOREMA ΙΙ.
+
+Corpus omne, quod movetur in linea aliqua curva in plano descripta,
+<⁶5³ radio ducto ad punctum vel immobile, vel motu rectilineo
+uniformiter progrediens, describit areas circa punctum illud tempor-
+ibus proportionales, urgetnr a vi centripeta tendente ad idem punctum.
+
+Cas, 1. Nam corpus omne, quod movetur in linea curva, detor-
+quetur de cursu rectilineo per vim aliquam in ipsum agentem <per
+leg. 1.). Et vis illa, qua corpus de cursu rectilineo detorquetur, &
+cogitur triangula quam minima 8 Α Β, 8 Β C„ 8 C D, &o circa
+punctum immobile S temporibus aequalibus aequalia describere, agit
+in loco B secundum lineam parallelam ipsi e C (per prop. XL. lib. 1.
+elem. & leg. 11.) hoc est, secundum lineam BS‚· & in loco C se—
+cundum lineam ipsi d D parallelam, hoc est, secundum lineam 8 C,
+&a Agit ergo semper secundum lineas tendentes ad punctum illud
+, immobile 8. Q.E.D.
+
+Casxz. Et, per legum corollarium quintum, perinde est, sive qui-
+escat superficieS‚ in qua corpus describit figuram curvilineam‚ sive
+moveatur eadem una cum corpore, figura descripta, & puncto suo
+8 uniformiter in directum.
+
+Corol. 1. In spatiis vel mediis non resistentibuS, si areae non sunt
+temporibus proportionaleS‚ vires non tendunt ad concursum· radio-
+rum3 sed inde declinant in consequentia, seu versus plagam in quam
+fit motus, si modo arearum descriptio acceleratur} sin retardatur,
+declinant in antecedentia.
+

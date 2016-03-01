@@ -1,0 +1,43 @@
+1 54 DE MOTU CORPOR ΠΜ
+
+culareS, 81 cyclois nostra abibit in cycloidem vulgi. Isto autem in
+casu longitudo arcus cycloidiS‚ inter planum illud & punctum
+describenS, aequalis evadet quadruplicato sinui verso dimidii arcus
+rotae inter idem planum ἃ punctum describens; ut invenit Wrennus:
+Et pendulum inter duas ejusmodi cycloides in simili & aequali
+cycloide temporibus aequalibus osculabitur, utdemonstravit Hugem'uS.
+Sed & descensus gravium, tempore oscillationis uniuS, is erit quem
+Hugenz'us indicavit.
+
+Aptantur autem propositiones a nobis demonstratae ad veram
+constitutionem terrae, quatenus rotae eundo in ejus circulis maximis
+describunt motu clavorum, perimetris suis infixorum, cycloides extra
+globum3 ἃ pendula inferius in fodinis & cavernis terrae suspensa, in
+cycloidibus intra globos oscillari debent, ut oscillationes omnes ⁴
+evadant isochronae. Nam gravitas (ut in libro tertio docebitur)
+decrescit in progressu a superficie terrae, sursum quidem in duplicata
+ratione distantiarum a centro ejuS, deorsum vero in ratione
+simplici.
+
+PROPOSITIO LIII. PROBLEMA XXXV.
+
+C oncessz‘s figurarum curvilz'nearum quadraturis, invenire vires quibus
+
+corpora in datis curvis lineis oscz’llatz'ones semper z'soclcronas
+peragent.
+
+Oscilletur corpus T in curva quavis linea S T R Q, cujus axis sit
+A R transiens per virium centrum C. Agatur T X quae curvam
+illam in' corporis loco quovis T contingat, inque hac tangente T X
+capiatur T Υ aequalis arcui T R. Nam longitudo arcus illius ex
+figurarum quadraturis per methodos vulgares, innotescit. De puncto
+Υ educatur recta Υ Ζ tangenti perpendicularis Agatur C T per
+pendiculari illi occurrens in Z, & erit vis centripeta proportionalis
+rectae TZ. Q. E. J.
+
+Nam si viS, qua corpus trahitur de T versus C, exponatur per
+rectam T Z captam ipsi proportionalem, resolvetur haec in vires T Υ,
+Υ Ζ ,· quarum Υ Ζ trahendo corpus secundum longitudinem fili P T,
+motum ejus nil mutat, vis autem altera T Υ motum ejus in curva
+S Τ R Q directe accelerat vel directe retardat. Proinde cum haec
+

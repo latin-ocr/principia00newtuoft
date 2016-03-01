@@ -1,0 +1,58 @@
+116 DE MOTU CORPORUM
+
+prop. XVI) aequalis est velocitati
+corporis dimidio intervalli S P cir-
+culum circa idem centrum S unifor-
+miter describentis, Minuatur pa- P D
+rabolae latitudo C P in infinitum C
+eo, ut arcus parabolicus P f B cum
+recta CB, centrum S cum vertice
+B, & intervallum S P cum intervallo
+B C coincidat, ἃ constabit propo-
+sitio. Q. E. D. S
+’ Β
+
+PROPOSITIO XXXV. THEOREMA XI.
+I isdem positis, dico quod area figurae D E S, radio indefinito S D
+
+descripta, aequalis sit areoe quam corpus, radio dimidium laterz's
+recti figurae D E S aequante, circa centrum S uniformiter gyrandO,
+eedem tempore describere petest. ’
+
+Nam concipe corpus C quam minima temporis particula lineolam
+C c cadendo describere, & interea corpus aliud Is, uniformiter in
+circulo O K k circa centrum S gyrando, arcum K k describere. Eri-
+gantur perpendicula C D, cd occurrentia figurae D E S in D, d.
+jungantur S D, Sd, S K, S k & ducatur Dd axi A S occurrens in T,
+
+ἃ ad eam demittatur perpendiculum S Y.
+
+Cas, 1. Jam si figura D E S circulus est vel hyperbola rectangula, „
+
+bisecetur ejus transversa diameterA S in 0, & erit S O dimidium ·
+
+lateris recti. Et quoniam est T C ad T D ut C c ad Dal, δε T D ad
+
+ΤΞ ut σῃ ad Sy, erit ex aequo TC ad ΤΒ ut CD κ cc ad SYde,
+Sed (per corol. 1. prop. xxxm) est T C ad T S ut A C ad A 0, puta J Ξ
+
+si in coitu punctorum D, d capiantur linearum rationes ultimae. ¹
+
+Ergo Α C est ad Ao seu ss< ut cDxcc ad SYde. Porro
+
+corporis descendentis velocitas in C est ad velocitatem corporis cir· ²
+culum intervallo S C circa centrum S describentis in subduplicata ·
+
+ratione A C ad A Ο vel S K (per prop. xxxm). Et haec velocitas ad
+
+velocitatem corporis describentis circulum OKk in subduplicata θ
+
+ratione SK ad S C (per corol. VI prop. 1v) & ex aequo velocitas ζ·
+prima ad ultimam, hoc est lineola C c ad arcum K k in subduplicata *³
+
+ratione A C ad S C, id est in ratione A C ad C D. Quare est C D x
+
+Cc aequale ACka,& propterea A Cad SK ut ACka ad ss
+
+Ἴ
+

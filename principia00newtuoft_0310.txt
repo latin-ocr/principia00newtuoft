@@ -1,0 +1,55 @@
+268 DE MOTU CORPOR ΗΜ
+
+per semidiametri DB terminum B agatur infinita B A P, ⁴semidia-
+metro DF parallela. In ea detur punctum A, & capiatur segmen-
+tum A P velocitati proportionale. Et cum resistentiae pars altera
+sit ut velocitas & pars altera ut velocitatis quadratum; sit resistentia
+
+tota ut AP quaaC÷2BA P. Jungantur DA, DP circulum secantes
+in E ac T, & exponatur gravitas per DA
+
+quad. ita ut sit gravitas ad resistentiam ut 13- *¹
+
+DAq ad APq÷ 2BAP: & tempus ascensus W
+totius erit ut circuli sector E D Τ. Α ἰ
+
+Agatur enim D V Q, abscindens & velocita-
+momentum D T V dato temporis momento
+respondens 3 & velocitatis decrementum illud
+PQ erit ut summa virium gravitatis DAq & D ’
+resistentia-3 A Pq÷ 2BA P, id est (per prop. 12 lib. 2 elem.) ut DP
+quad. Proinde area DPQ, ipsi PQ proportionalis, est ut DP quad.
+Sc area DTV, quae est ad aream DPQ ut DTq ad DPq, est ut
+temporis futuri, per subductionem datarum particularum D T V, ἃ
+propterea tempori ascensus totius proportionalis est. Q. E. D.
+
+Cas. 2. Si velocitas in ascensu corporis exponatur per longitudinem
+A P ut priuS‚ & resistentia ponatur esse ut A Pq÷ 2 BA P, and si
+vis gravitatis minor sit quam quae per DA q exponi possit; capiatur
+BD ejus longitudiniS, ut sit A B q—B Dq gravitati proportionale,
+
+          
+
+tis A P momentum PQ, & sectoris DE T
+
+datum D T q. Decrescit igitur area E D Τ uniformiter ad modurn
+sitque DF ipsi DB perpendicu- ·
+laris 8c aequaliS, ἃ per verticem
+F describatur hyperbola F T VE ,
+cujus semidiametri conjugatae
+sint DB & DF, quaeque secet
+DA in E& DP‚DQin T& V,-
+& erit, tempus ascensus totius ut
+
+hyperbolae sector T DE.
+Nam velocitatis decrementum ·
+
+P Q, in· data temporis particula factum, est ut summa resistentiae
+A Pq÷ 2 BA P & gravitatis A Bq—BDq, id est, ut BPq—BDq.
+Est autem area D T V ad aream DP Q, ut D T q ad DPq,· ideoque,
+si ad DF demittatur perpendiculum G T, ut G T q seu GDq—DF q
+
+ 
+
+EG-
+

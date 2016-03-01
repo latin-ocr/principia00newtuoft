@@ -1,0 +1,51 @@
+ 
+
+LIBER PRIMUS ’ 9 7
+
+describe alium circulum, 81 recta, quae tangit hunc circulum, &
+transit per concursum crurum C K, BK, ubi crura prima C Ρ, BP
+
+,Δ concurrunt ad quartum datum punctum, erit regula illa MN cujus
+> ope trajectoria describetur. Unde etiam vicissim trapezium specie
+’ἶ datum (si casus quidam impossibiles excipiantur) in data quavis sec-
+
+· tione conica inscribi potest.
+
+Sunt & alia lemmata quorum ope trajectoriae specie datae, datis
+punctis & tangentibuS, describi possunt. Ejus generis est quod, si
+recta linea per punctum quodvis positione datum ducatur, quae da-
+tam coni sectionem in punctis duobus intersecet, & intersectionum
+
+· intervallum bisecetur, punctum bisectionis tanget aliam coni sectionem
+, ejusdem speciei cum priore, atque axes habentem prioris axibus
+
+parallelos, Sed propero ad magis utilia.
+
+LEMMA XXVI.
+
+T rz'angulz’ specie, ὥ* magnitudine dati tres angulos ad rectas lotidem
+positione dataS, quae non sunt omnes parallelce, singulos ad singulas
+ponere.
+
+Dantur positione tres rectae infinitae A B, A C, B C, & oportet
+ζ . triangulum D E F ita locare, ut angulus ejus D lineam A B, angulus
+
+E lineam A C, & angulus F lineam B C tangat ⁴Super DE, DF
+& EF describe tria circulorum segmenta DRE, D GF, E M F,
+quae capiant angulos angulis B A C, A B C, A CB aequales
+respective. Describantur autern haec segmenta ad eas partes linea-
+rum DE, DF, EF, ut literae DRED eodem ordine cum
+literis BA CB, literae D G F D eodem cum literis A B CA,
+& literae E M F E eodem cum literis A CBA in orbem redeant;
+deinde compleantur haec segmenta in circulos integros, Secent
+circuli duo priores se mutuo in G, sintque centra eorum Ρ 8ε Q.
+Junctis G P, Ρ Q, cape G a ad A B ut est G Ρ ad Ρ Q, & centro G,
+intervallo Ga describe circulum, qui secet circulum primum D G E
+in a. Jungatur tum aD secans circulum secundum DF G in b,
+tum aE secans circulum tertium E M F in c. Et jam licet figuram
+Α Β C d e f constituere similem & aequalem figurae a bc D E F. Quo
+facto perficitur problema.
+
+Agatur enim F c ipsi aD occurrens in n, &jungantur a G, bG,
+· G
+

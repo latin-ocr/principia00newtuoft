@@ -1,0 +1,50 @@
+LIBER PRIMUS. ’ 1 47*
+
+ob similitudinem figurae evanescentis Ρ n ο mq & figurae PFG VI, ,
+
+ratio ultima, lineolarum evanescentium Pm, Ρη, Ρο, pq, id est,
+ratio mutationum momentanearum curvae A P, rectae C Ρ, arcus
+circularis ΒΡ, ac rectae V Ρ, eadem erit quae linearum P V, PF, PG,
+, Pl respective. Cum autem V F ad CF& VH ad C V perpendicu-
+lares sint, angulique H V G, V C F propterea aequales; & angulus
+. VH G (ob angulos quadrilateri H V E Ρ ἃᾶ ‚V & Ρ· rectos) angulo
+C E Ρ aequalis est, similia erunt triangula VH G, C E Ρ,· & inde
+fietutEPad CEita HG ad HV seu HP&itaKIadKP, 81
+composite vel divisim ut CB ad C E ita Ρ] ἃᾶ PK, & duplicatis
+consequentibus ut CB ad 2 C E ita Ρ] ἃᾶ Ρ V, atque ita Pq ad
+P m. Est igitur decrementum lineae V Ρ, id est, incrementum lineae
+B V — V Ρ ad incrementum lineae curvae A Ρ in data ratione CB ad
+2. C E, & propterea (per corol. lem. 1v) longitudines B V — V Ρ ἃ
+Α Ρ, incrementis illis genitae, sunt in eadem ratione. Sed, existente
+B V radio, est V Ρ co-sinus anguli B V Ρ seu ὲ BE Ρ, ideoque
+Β V — V Ρ sinus versus est ejusdem anguli; 81: propterea in hac rota,
+cujus radius est {r B V, erit B V — VP duplus sinus versus arcus ὲ ΒΡ.
+
+> . Ergo A Ρ est ad duplum sinum versum arcus ἕΒΡ ut 2 C E ad
+
+CB. Q.E.D.
+
+Lineam autem A Ρ in propositione priore cycloidem extra
+globum, alteram in posteriore cycloidem intra globum distinctionis
+gratia nominabimus,
+
+Corol. 1. Hinc si describatur cyclois integra A S L & bisecetur
+ea in S, erit longitudo partis PS ad longitudinem V Ρ (quae duplus
+est sinus anguli VBP, existente E B radio) ut 2 C E ad CB, atque
+ideo in ratione data.
+
+Corol. 2. Et longitudo semiperimetri cycloidis A S aequabitur
+’ lineae rectae, quae est ad rotae diametrum B V ut 2 C E ad CB.
+
+PROPOSITIO L. PROBLEMA XXXIII.
+
+Facere ut corpus pendulum oscz'lletur z’n cycloz'de data.
+
+Intra globum Q VS, centro C descriptum, detur cyclois QR S
+bisecta in R & punctis suis extremis Q & S superficiei globi hinc
+
+- inde occurrens Agatur C R bisecans arcum Q S in Ο, & produ-
+Ι catur ea ad A, ut sit CA ad CO ut CO ad CR. Centro C
+
+ 
+

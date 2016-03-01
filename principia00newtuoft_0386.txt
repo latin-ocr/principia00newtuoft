@@ -1,0 +1,55 @@
+344 DE Mor& CORPOR ΠΜ
+
+PROPOSITIO XL. PROBLEMA IX.
+
+Globz‘, in medio fluidis-simo compresso progredz'entzk, invenire resistentiam
+per phaenomena. -
+
+Sit A pondus globi in vacuo, B pondus ejus· in medio resistente,
+D diameter globi, F spatium quod sit ad 3D ut densitas globi ad
+densitatem medii, id est, ut A ad A—B, G tempus quo globus pondere
+B sine resistentia cadendo describit spatium F, & H velocitas quam
+globus hocce casu suo acquirit. Et erit H velocitas maxima quacum
+
+globuS, pondere suo B, in medio resistente potest descendere, .
+
+per corol. 2 prop. xxxvm: ἃ resistentia, quam globus ea cum
+velocitate descendens patitur, aequalis erit ejus ponderi Β : resistentia
+vero, quam patitur in alia quacunque velocitate, erit ad pondus B in
+duplicata ratione velocitatis hujus ad velocitatem illam maximam H,
+per corol. 1 prop. xxxvm.
+
+Haec est resistentia quae oritur ab inertia materiae fluidi. Ea vero
+quae oritur ab elasticitate‚ tenacitate, & frictione partium ejuS, sic
+investigabitur.
+
+Demittatur globus ut pondere suo B in fluido descendat ; & sit
+P tempus cadendi, idque in minutis secundis si tempus G in minutis
+secundis habeatur. Inveniatur numerus absolutus N qui con-
+
+2P
+
+ 
+
+ 
+
+gruitlogarithmo o,4342944819 ἶ, sitque L logarithmus numeri
+N ÷ 1 · . . . N—1 .
+N ε. δε veloc1tas cadendo acqu1slta erit N÷ IH, altltudo autem
+
+descripta erit ²EF —1,386294361 1 F -ι- 4,6o5 1 70186 L F. Si fluidum
+
+ 
+
+satis profundum sit, negligi potest terminus 4,605170186LF;
+
+2PF
+
+& erit ἶ —1‚386294361 1 F altitudo descripta quamproxime. Pa-
+
+tent haec per libri secundi propositionem nonam & ejus corollaria,
+ex hypothesi quod globus nullam aliam patiatur resistentiam nisi quae
+oritur ab inertia materiae. Si vero aliam insuper resistentiam patiatur,
+descensus erit tardior, ἃ ex retardatione innotescet quantitas hujus
+reslstentiae.
+

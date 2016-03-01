@@ -1,0 +1,52 @@
+LIBER SECUNDUS. 29 5 ⁴
+
+ideo tempora directe & velocitates reciproce sunt ut quadrata tem-
+
+porum, 8c propterea quantitates materiae sunt ut vires motrices Sc
+quadrata temporum, id est, ut pondera & quadrata temporum.
+Q. E. D.
+
+Corol. 1. Ideoque si tempora sunt aequalia, quantitates materiae in
+singulis corporibus erunt ut pondera.
+
+Corol. 2. Si pondera sunt aequalia, quantitates materiae erunt ut
+quadrata temporum.
+
+Corol. 3. Si quantitates materiae aequantur, pondera erunt reci-
+proce ut quadrata temporum.
+
+Corol. 4. Unde cum quadrata temporum, caeteris paribuS‚ sint ut
+longitudines pendulorum; si & tempora & quantitates materiae εε-
+qualia sunt, pondera erunt ut longitudines pendulorum.
+
+.Corol. 5. Et universaliter, quantitas materiae pendulae est ut pon-
+dus ἃ quadratum temporis directe, & longitudo penduli inverse.
+
+Corol. 6. Sed & in medio non resistente quantitas materiae pendu-.
+1ae est ut pondus comparativum & quadratum temporis directe Sc
+longitudo penduli inverse. Nam pondus comparativum est vis mo-
+'trix corporis in medio quovis gravi, ut supra explicui; ideoque
+idem praestat in tali medio non resistente atque pondus absolutum in
+vacuo,
+
+Corol. 7. Et hinc liquet ratio tum comparandi corpora inter se,
+quoad quantitatem materiae in singulis; tum comparandi pondera
+ejusdem corporis in diversis lociS‚ ad cognoscendam variationem
+gravitatis, Factis autem experimentis quam accuratissimis inveni
+semper quantitatem materiae in corporibus singulis eorum ponderi
+proportionalem esse.
+
+ 
+
+PROPOSITIO XXV. THEOREMA XX.
+
+Corpora Funependula quibus, in medio quovis, resistitur in ratione
+momentorum temporis, ὥ* corpora funependnla quae in eq‘usdem gravi-
+tatis specificae medio non resistente moventur, oscillationes in cycloide
+
+eodem tempore peragunt, ὣ* arcuum partes proportionales simul de-
+scribunt.
+
+Sit A B cycloidis arCUS, quem corpus D tempore quovis in medio
+non resistente oscillando describit. Bisecetur idem in C, ita ut C sit
+

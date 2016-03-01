@@ -1,0 +1,42 @@
+194 DE MOTU CORPORUM
+
+sphaera quoevis alia similam‘s ab eadem attrahitur vi reciproce
+’ proportionali quadrato distantia* centrorum.
+
+, Nam ¹particulae cujusvis attractio est reciproce ut quadratum
+distantiae suae a centro sphaerae trahentis (per prop. Lxxlv), 8ε
+propterea eadem est, ac si vis tota attrahens manaret de corpusculo
+unico sito in centro hujus sphaerae. Haec autem attractio tanta est,
+quanta foret vicissim attractio corpusculi ejusdem, si modo illud a
+singulis sphaerae attractae particulis eadem vi traheretur, qua ipsas
+attrahit. F oret autem illa corpusculi attractio (per prop. Lxxw)
+reciproce 'proportionalis quadrato distantiae suae a centro sphaerae;
+ideoque huic aequalis attractio sphaerae est in eadem ratione. Q.E.D.
+
+Corol. 1. Attractiones sphaerarum, versus alias sphaeras 'homoge-
+neaS, sunt ut sphaerae trahentes applicatae ad quadrata distantiarum
+centrorum suorum a centris earum, quas attrahunt.
+
+Corol. 2. Idem valet, ubi sphaera attracta etiam attrahit. Namque
+hujus puncta singula trahent singula alterius eadem vi, qua ab ipsis .
+vicissim trahuntur; ideoque cum in omni attractione urgeatur (per
+legem 111) tam punctum attrahenS, quam punctum attractum, gemina-
+bitur vis attractionis mutuae, conservatis proportionibus,
+
+Corol. 3. Eadem omnia, quae superius de motu corporum circa
+umbilicum conicarum sectionum demonstrata sunt, obtinent, ubi
+sphaera attrahens locatur in umbilico, & corpora moventur extra
+sphaeram. .
+
+Corol. 4. Ea vem, quae de motu corporum circa centrum conicarum
+sectionum demonstrantur, obtinent ubi motus peraguntur intra
+sphaeram.
+
+PROPOSITIO LXXVI. THEOREMA XXXVI.
+
+Si ,sskaerce in progressu a centro aa' circumfhrentzam (quoad matem'ae
+densitatem ὥ* vim attractivam) utcunque dissimilares, in progressu
+vero per circuitum aa' datam omnem a centro distantiam sunt
+undique similares ‚· ἐπ’ vis attractiva puncti cujusque decrescit in
+duplicata ratione distantia· corporis attracti .· dico quod vis' tota, qua
+

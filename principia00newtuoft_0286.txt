@@ -1,0 +1,48 @@
+244 · DE Mons CORPOR ΗΜ
+
+magnitudinum. Neque enim spectatur in hoc 'lem'mate magnitudo
+momentorum, sed prima nascentium proportio. Eodem recidit si
+loco momentorum ,usurpentur vel velocitates incrementorum ac
+decrementorum (quas etiam motUS, mutationes & fluxiones quantita-
+tum nominare licet) vel finitae quaevis quantitates velocitatibus hisce
+proportionales, Lateris autem ⁴cujusque generantis coefficiens est
+quantitaS, quae oritur applicando genitam ad hoc latus,
+
+” Igitur sensus lemmatis est, ut, si quantitatum quarumcunque
+perpetuo motu crescentium vel decrescentium A, B, C, &o momenta,
+vel his proportionales mutationum velocitates dicantur'a‚ b, c, ἃς.
+momentum vel mutatio geniti rectanguli A Β fuerit a B÷bA, ἃ geniti
+
+contenti A B C momentum fuerit a B C÷ b A C -Ι- c A B: & genitarum .
+
+dignitatum Α2, A3, A4‚ A³, A³, A³‚ ΑΒΓ, A-¹, A-2, & A- ἶ momenta
+2 a A, 3 αΑ2, 4 aA3, ὲ aA‘³‚ ξ aA³„13.aA’³, ξςαΑἿ, -aA—2,
+- 2 a A--3‘, a - ι ’
+
+2 aA—³ respective. Et generaliterszut dignitatis
+
+αι Q
+
+cujuscunque A ”² momentum fuerit ἶ aA m . Item ut genitae
+Α2-Β momentum fuerit 2 aAB÷bA23 & genitae A3 B4 C2 momentum
+gaA2 Β4 C2÷4bA³B³C2÷2cA³ Β4 C; & genitae ἓ sive
+
+ΒΞ
+
+A³ B-2 momentum 3 a A2 B-2 - 2 b A3 Β-3 : & sic in caeteris,
+Demonstratur vero lemma in hunc modum. ’ ⁴ ’
+
+Cas, 1. Rectangulum ‘quodvis motu perpetuo auctum A Β, 'ubi
+de lateribus >A & B deerant momentorum dimidia {r a & ὲ b, fuit
+A—} ain B-÷ b, seu A Β-ὲ a B-{f bA÷-} ab‚· & quam primum
+latera A & B alteris momentorum dimidiis aucta sunt, evadit A-ff-v} a
+,in Β-Ι-ὲό seu ΑΒ-ι-ὲαΒ-ι-ὲόΑ-ι-ἒῑαό. De hoc rectangulo
+subducatur rectangulum priUS, Sc manebit excessus a B ÷b A. Igitur
+laterum incrementis totis a & b generatur rectanguli incrementum
+a B -ι- b A. Q. E D '
+
+, Cas, 2. Ponatur ΑΒ semper aequale G, & contenti ABC seu
+GC momentum (per caS. 1) erit gC÷cG, id est (si pro G & g
+scribantur A Β Sc a B÷b A) a Β C÷b A C÷c A B. Et par est ratio
+contenti sub lateribus quotcunque. Q E. D
+

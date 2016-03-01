@@ -1,0 +1,45 @@
+120 DE MOTU CORPORUM
+
+PROPOSITIO XXXIX. PROBLEMA XXVII.
+
+Posita cujuscunque generis vi centripeta, ὦ* concessis figurarum
+curvilinearum quadraturis, requiritur corporis recta ascendentis
+
+vel descendentis tum velocitas in locis singulis, tum tempus quo corpus
+
+acl locum quemvis perveniet .- E t contra.
+
+De loco quovis A in recta A DE C cadat corpus E, deque loco
+ejus E erigatur semper perpendicularis E G, vi centripetae in loco
+illo ad centrum C tendenti pro-
+portionalis: Sitque BF G linea
+curva quam punctum G perpetuo
+tangit. Coincidat autem E G ipso
+motus initio cum perpendiculari
+A B, & erit corporis velocitas
+in loco quovis E ut recta, quae
+potest aream curvilineam A BG E.
+
+QfiIE G capiatur E M rectae,
+
+quae potest aream A B GE, reciproce
+proportionali5‚ & sit V L M linea
+curva, quam punctum M perpetuo
+tangit, ἃ cujus asymptotos est recta
+AB producta; ἃ erit tempus, quo
+corpus cadendo describit lineam
+
+A E, ut area curvilinea A B T V ME .
+Q. E. J.
+
+Etenim in recta A E capiatur
+linea quam minima DE datae longi-
+tudinis, sitque DL F locus lineae
+EM G, ubi corpus versabatur in D‚· & si ea sit vis centripeta, ut recta,
+quae potest aream A B G E, sit ut descendentis velocitas : erit area
+ipsa in duplicata ratione velocitatiS, id est, si pro velocitatibus in D &
+E, scribantur V & V÷1‚ erit area A BFD ut V V, &area A B GE
+ut VV÷2 V1÷11‚& divisim area DFGEut 2 V1÷11‚ide0que
+
+ 
+

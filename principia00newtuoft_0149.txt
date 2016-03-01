@@ -1,0 +1,42 @@
+LIBER PRIMUS. , 107
+
+inferiorem potestatem reduci possit: curva non erit* unica, sed ex
+duabus vel pluribus composita, quarum intersectiones per calculos
+diversos seorsim inveniri possunt. Ad eundem modum intersec-
+tiones binae rectarum & sectionum conicarum prodeunt semper per
+aequationes duarum dimensionum, ternae rectarum & curvarum
+irreducibilium tertiae potestatis per aequationes trium, quaternae
+'rectarum & curvarum irreducibilium quartae potestatis per aequationes
+dimensionum quatuor, δι’ sic in infinitum. Ergo rectae ἃ spiralis
+intersectiones numero infinitae, cum curva haec sit simplex & in curvas
+plures irreducibiliS, requirunt aequationes numero dimensionum 8z
+radicum infinitas, quibus intersectiones omnes possunt simul exhi-
+beri. Est enim eadem omnium lex & idem calculus, Nam si a polo
+in rectam illam secantem demittatur perpendiculum, & perpendicu-
+-lum illud una cum secante revolvatur circa polum, intersectiones
+spiralis transibunt in se mutuo, quaeque prima erat seu proxima, post
+unam revolutionem secunda erit, post duas tertia, ἃ sic deinceps:
+nec interea mutabitur aequatio nisi pro mutata magnitudine quanti-
+tatum per quas positio secantis determinatur. Unde cum quantitates
+illae post singulas revolutiones redeunt ad magnitudines primaS‚
+aequatio redibit ad formam primam, ideoque una eademque exhibebit
+intersectiones omnes & propterea radices habebit numero infinitaS,
+quibus omnes exhiberi possunt. Nequit ergo intersectio rectae &
+spiralis per aequationem finitam generaliter inveniri, 8ῑ idcirco nulla
+extat ovalis cujus area, rectis imperatis abscissa, possit per talem
+aequationem generaliter exhiberi.
+
+Eodem argumento, si intervallum poli & puncti, quo spiralis
+describitur, capiatur Ovalis perimetro abscissae proportionale, probari
+potest quod longitudo perimetri nequit per finitam aequationem
+generaliter exhiberi. De ovalibus autem hic loquor quae non tangun-
+tur a figuris conjugatis in infinitum pergentibus
+
+Corollarz'um.
+
+Hinc area ellipseOS‚ quae radio ab umbilico ad corpus mobile
+ducto describitur, non prodit. ex dato tempore, per aequationem fini-
+tam; & propterea per descriptionem curvarum geometrice rationalium
+determinari nequit. Curvas geometrice rationales appello quarum
+puncta omnia per longitudines aequationibus definitas id est, per
+

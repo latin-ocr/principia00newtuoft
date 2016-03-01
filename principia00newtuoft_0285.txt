@@ -1,0 +1,46 @@
+ 
+
+“ LIBER SECUNDUS. 243
+
+motuum proportionales totiS‚ erunt ut cubi diametrorum ad dignitatem
+illam applicati. Sunto diametri D 8c E; δε si resistentiae, ubi
+velocitates aequales ponuntur, sint ut Du & E„ : spatia quibus globi,
+quibuscunque cum velocitatibus moti, amittent partes motuum
+proportionales totiS, erunt ut D³-²= & Ea—n· Et propterea globi
+homogenei describendo spatia ipsis D³-²‘ 8: E³-” proportionalia,
+retinebunt velocitates in eadem ratione ad invicem ac sub initio.
+
+Corol. 4. Quod si globi non sint homogenei, spatium a globo
+densiore descriptum augeri debet in ratione densitatis, Motus enim,
+sub pari velocitate, major est in ratione densitatiS, & tempus (per
+hanc propositionem) augetur in ratione motus directe, ac spatium
+descriptum in ratione temporis„
+
+Corol. 5. Et si globi moveantur in mediis diversis; spatium in
+medio, quod caeteris paribus magis resistit, diminuendum erit in
+ratione majoris resistentiae. Tempus enim (per hanc propositionem)
+diminuetur in ratione resistentiae auctae, ἃ spatium in ratione
+temporis.
+
+LEMMA 11.
+
+Momentum genitae aequatur momentis laterum singulorum generantium
+
+in eorundem laterum indices degnz'tatum (ΞΔ coefficz'entia continue
+ductis:
+
+Genitam voco quantitatem omnem, quae ex lateribus vel terminis
+quibuscunque in arithmetica per multiplicationem, divisionem, &
+extractionem radicum; in geometria per inventionem vel contentorum
+& laterum, vel extremarum & mediarum proportionalium, sine
+additione &subductione generatur. Ejusmodi quantitates sunt
+sacti, quoti, radiceS, rectangula, quadrata, cubi, latera quadrata, latera
+cubica, & simileS. Has quantitateS, ut indeterminatas & instabileS‚
+& quasi motu fluxuve perpetuo crescentes vel decrescenteS‚ hic
+considero; & earum incrementa vel decrementa momentanea
+sub nomine momentorum intelligo: ita ut incrementa pro momentis
+addititiis seu affirmativiS, ac decrementa pro subductitiis seu
+negativis habeantur. Cave tamen intellexeris particulas finitaS.
+Particulae finitae non sunt momenta, sed quantitates ipsae ex momentis
+genitae. Intelligenda sunt principia jamjam nascentia finitarum
+

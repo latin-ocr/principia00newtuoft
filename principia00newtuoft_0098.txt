@@ -1,0 +1,56 @@
+ 
+
+56 Ἴ DE MOTU C ORPOR UM 1
+
+S revolvi potest, si C E 8c ΡΒ concurrant in E, erit ut Pss'pcgb. (per *V*
+
+ 
+
+corol. 3. prop. vn.) hoc est, si punctum S sit umbilicus ellipseOS‚
+ideoque P E detur, ut S Pq reciproce. Q. E. I.
+
+Eadem brevitate, qua traduximus problema quintum ad parabolam,
+& hyperbolam‚ liceret idem hic facere: verum ob dignitatem
+problematiS, & usum ejus in sequentibus non pigebit casus caeteros
+
+demonstratione confirmare.
+
+PROPOSITIO XII. PROBLEMA VII. ἕξ
+
+M oveatur corpus in hyberbola .· requiritur lex vz's centripetae tendentis ·’ ·
+
+ad umbilicum figuroe.
+
+Sunto CA, CB semiaxes hyperbolae; P G, KD diametri aliae
+conjugatae3 PF perpendiculum ad diametrum K D‚· & Qv ordina-
+tim applicata ad diametrum GP. Agatur S P secans cum diame·
+trum DJ< in E, tum ordinatim applicatam Qv in x, & compleatur ³
+parallelogrammum QRPx. Patet E Ρ aequalem esse semiaxi “
+transverso A C, eo quod, acta ab altero hyperbolae umbilico H linea
+H J ipsi E C parallela‚ ob aequales ’ C S, CH aequentur E S, E I‚· η
+adeo ut E Ρ semidifferentia sit ipsarum Ρ S, Pl, id est (ob parallelas -. ζ
+JH, PR & angulos aequales IPR, HPZ) ipsarum PS‚ ΡΗ, ·
+
+quarum differentia axem toturn 2 A C adaequat. Ad S P demittatur < Ϊ
+
+perpendicularis Q T. Et hyperbolae latere recto principali (seu 225³ gq)
+
+dicto L, erit L><QR ad L><Pv ut QR ad Pv, seu Px ad Pv,
+id est (ob similia triangula va, Ρ Ε C) ut PE ad Ρ C, seu A C ad
+PC. Erit etiam Lvaad Gv >< Pv utL ad Gv,· ἃ (ex natura
+conicorum) rectangulum GvP ad Q v quad. ut P C q ad C Dq‚· 8ι
+(per corol. 2. lem. VII.) Qv quad. ad Qx quad. punctis Q 8c P coe-
+
+ 
+
+untibus fit ratio aequalitatis ; 81: Qx quad. seu Q v quad. est ad Q T q 1
+ut E Pq ad P F q, id est, ut CA q ad P F q, sive (per lem. ΧΗ.) ut ’
+
+C D q ad C B q .· & conjunctis his omnibus rationibus L >< Q R fit ad
+Q Tq ut A CxLxPquCDq, seu 2 CquPquCDq ad
+
+PCx vaCqu CBq, sive ut 2 P Cad Gv. Sed punctisP&Q .
+coeuntibus aequantur 2 P C & G v. Ergo & his proportionalia -2
+
+ 
+

@@ -1,0 +1,34 @@
+⁰ summa quadratorum ex omnibus N M erit duplo minor quam summa
+
+472 DE MUND! S YSTEMA TE
+
+N am centro K diametro IL describatur semicirculus IN L K. ι,
+Dividi intelligatur semicircumferentia I N L in partes innumeras .
+aequaleS, & a partibus singulis N ad diametrum IL demittantur si'nus
+N M. Et summa quadratorum ex sinibus omnibus N M aequalis
+erit summae quadratorum ex sinibus K Μ, 8ζ summa utraque aequalis
+erit summae quadratorum ex totidem semidiametris K N ‚· ideoque
+
+ 
+
+quadratorum ex totidem semidiametris K N.
+
+ 
+
+Jam dividatur perimeter circuli A E in particulas totidem aequaleS,
+& ab earum unaquaque F ad planum Q R demittatur perpendiculum
+F G, ut 8c a puncto A perpendiculum A H. Et vis, qua particula F
+
+recedit a plano QR, erit ut perpendiculum illud F G per hypo-
+thesin, & haec vis ducta in distantiam C G erit efficacia particulae F
+
+ad terram circum centrum ejus convertendam. Ideoque efficacia
+particulae in loco F erit ad efficaciam particulae in loco A ut
+
+particularum totidem in loco A ut summa omnium F C q ad summam
+totidem A C q, hoc est (per jam demonstrata) ut unum ad duo,
+Q. E. D.
+
+Et quoniam particulae agunt recedendo perpendiculariter a plano
+Q R, idque aequaliter ab utraque parte hujus plani: eadem conver·
+

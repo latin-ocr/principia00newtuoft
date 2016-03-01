@@ -1,0 +1,51 @@
+LIBER PRIMUS. 3 5
+
+  
+
+Cas, 1. Sit-arcus ille A B, tangens ejus A D, subtensa anguli
+
+.‚ contactus ad tangentem perpendicularis BD, subtensa arcus A B.
+„ Huic subtensae A B & tangenti A D perpendiculares erigantur A G,
+²⁷ B G, concurrentes in G,· dein accedant puncta D, B, G, ad puncta d,
+
+b, g, sitque I intersectio linearum B G, A G ultimo facta ubi puncta
+D,B accedunt usque ad A. Manifestum est A d D
+quod distantia G J minor esse potest quam
+assignata quaeviS. Est autem (ex natura circu-
+lorum per puncta A B G, A bg transeuntium) 0
+AB quad. aequale AGxBD‚ 8c Ab quad.
+-aequale A gx bd ‚· ideoque ratio A B quad. ad
+· Ab quad. componitur ex rationibus A G ad A g
+. & BD ad bd. Sed quoniam G l assumi potest
+minor' longitudine quavis assignata, fieri potest
+ut ratio A G ad A g minus differat a ratione
+aequalitatis quam pro differentia quavis assignata,
+ideoque ut ratio A B quad. ad A b quad. minus ζ
+differat a ratione BD ad bd quam pro differentia G
+quavis assignata. Est erg0‚ per lemma 1, ratio ultima A B quad.
+ad A b quad. eadem cum ratione ultima B D ad bd. Q. E. D.
+
+Cas. 2. Inclinetur jam BD ad A D in angulo quovis dato, 81
+eadem semper erit ratio ultima BD ad bd quae priuS‚ ideoque eadem
+acABquad. adAbquad. Q.E.D. ’
+
+CaS. 3. Et quamvis angulus D non detur, sed recta BD ad
+datum punctum convergat, vel alia quacunque lege constituatur;
+tamen anguli D, d communi lege constituti ad aequalitatem semper
+vergent & propius accedent ad invicem quam pro differentia quavis
+assignata, ideoque ultimo aequales erunt, per lem. 1, & propterea
+lineae BD, bd sunt in eadem ratione ad invicem ac prius, Q. E. D.
+
+Corol. 1. Unde cum tangentes A D, Ad, arcus A B, A b, &
+eorum sinus B C, bc fiant ultimo chordis A B, A b aequales; erunt
+etiam illorum quadrata ultimo ut subtensae BD, bd.
+
+Corol. 2. Eorundem quadrata sunt etiam ultimo ut sunt arcuum
+sagittae, quae chordas bisecant 81 ad datum punctum convergunt.
+Nam sagittae illae sunt ut subtensae B D, bd.
+
+Corol. 3. Ideoque sagitta est in duplicata ratione temporis quo
+corpus data velocitate describit arcum.
+
+   
+

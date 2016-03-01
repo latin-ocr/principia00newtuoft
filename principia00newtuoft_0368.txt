@@ -1,0 +1,69 @@
+²⁵!
+
+326 DE MOTU CORPOR ΠΜ 4
+
+erit in eadem ratione mediocri inter resistentiam in primo casu & ι
+
+resistentiam in secundo. Q. E. l.
+
+Corol. 1: Hinc si globus & particulae sint infinite dura, & vi omni
+elastica & propterea etiam vi omni reflexionis destituta: resistentia
+globi erit ad vim qua totus ejus motus vel auferri possit vel generari,
+quo tempore globus quatuor tertias partes diametri -suae describit, ut
+
+densitas medii ad densitatem globi.
+Corol. 2. Resistentia globi, caeteris paribuS, est in duplicata ratione
+
+velocitatis,
+Corol. 3. Resistentia globi, caeteris paribu5‚ est in duplicata ratione
+
+diametri.
+
+Corol. 4. Resistentia globi, caeteris paribuS, est ut densitas medii.
+
+Corol. 5. Resistentia globi est in ratione quae componitur ex “
+duplicata ratione velocitatis & duplicata ratione diametri & ratione
+densitatis medii.
+
+Corol. 6. Et motus globi cum ejus resistentia sic exponi potest.
+
+Sit A B tempus quo globus per resistentiam suam uniformiter con· j
+tinuatam totum suum motum amittere potest. Ad AB erigantur ἶ
+
+perpendicula AD B C. Sitque B C motus ille totuS, ἃ per punctum
+C asymptotis A D, A B describatur hyperbola CF. Producatur A B
+
+ 
+
+ad punctum quodvis E. Erigatur per-
+pendiculum E F hyperbolae occurrens in ΕΒ
+Compleatur parallelogrammum C B E G
+
+ 
+
+ἃ agatur AF ipsi BC occurrens in H. c ρ
+Et si globus tempore quovis BE, motu lp
+suo primo BC uniformiter continuato, in Α HB F
+
+medio non resistente describat spatium
+CB E G per aream parallelogrammi expositum, idem in medio
+resistente describet spatium C BE F per aream hyperbolae expositum,
+ἃ motus ejus in fine temporis illius exponetur per hyperbolae ordi-
+natam EF, amissa motus ejus parte F G. Et resistentia ejus in fine
+temporis ejusdem exponetur per longitudinem BH, amissa resistentiae
+parte C H. Patent haec omnia per corol. 1 & 3 prop. v lib. II.
+
+Corol. 7. Hinc si globus tempore T per resistentiam R uniformiter
+continuatam amittat motum suum totum Μ. idem globus tempore
+t in medio resistente, per resistentiam R in duplicata velocitatis
+
+tM
+
+ratione decrescentem, amittet motus sui M partem T÷ t,
+
+ 
+
+ma-
+
+ 
+

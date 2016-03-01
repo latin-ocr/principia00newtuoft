@@ -1,0 +1,40 @@
+164 DE MOTU CORPOR UM
+
+PROPOSITIO LX. THEOREMA XXIII.
+
+Si corpora duo S ὣ* Ρ, viribus quadrato distantiae suae reciproce
+proportionalibus, se mutuo trahentia, revolvuntur circa gravitatis
+centrum commune .· dico quod ellipseos, quam corpus alterutrum P
+hoc motu circa alterum S describit, axis principalis erit ad axem
+principalem ellipseos, quam corpus idem P circa alterum quiescens S
+eodem tempore periodico describere posset, ut summa corporum
+duorum S 4- Ρ ad primum duorum medie proportionalium inter hanc
+
+summam ὅς’ corpus illud alterum S.
+
+Nam si descriptae ellipses essent sibi invicem aequaleS, tempora
+periodica <per theorema superius) forent in subduplicata ratione
+corporis S ad summam corporum S -ι- Ρ. Minuatur in hac ratione
+tempus periodicum in ellipsi posteriore, & tempora periodica evadent
+
+aequalia3 ellipseos autem axis principalis (per prop. xv) minuetur in
+ratione, cujus haec est sesquiplicata, id est in ratione, eujus ratio S ad
+S ÷P est triplicata; ideoque erit ad axem principalem ellipseos
+alterius, ut primum duorum medie proportionalium inter S ÷P ἃ S
+ad S -ι- P. Et inverse, axis principalis ellipseos circa corpus mobile
+descripta: erit ad axem principalem descriptae circa immobile, ut
+S ÷P ad primum duorum medie proportionalium inter S ÷P & S.
+
+Q. E. D.
+
+PROPOSITIO LXI. THEOREMA XXIV.
+
+Si corpora duo viribus quibusvis se mutuo trahentia, neque alias
+agitata vel impedita, quomodocunque moveantur ,· motus eorum
+perinde se habebunt, ac si non traherent se mutuO, sed utrumque a
+corpore tertio in communi gravitatis centro constituto viribus iisdem
+traheretur. Et virium trahentium eadem erit lex respectu distantia·
+corporum a centro illo communi atque respectu distantia· totius inter
+
+corpora.
+

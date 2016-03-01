@@ -1,0 +1,40 @@
+LIBER PRIMUS. · 10 3
+
+    
+
+Γ
+
+{² ,
+«τιέξ
+
+Trajectom‘am specie datam describere, quoe a rectis quatuor positione
+
+PROPOSITIO XXIX. PROBLEMA XXI.
+
+datis· in partes secabitur, ordine, specie &proportione datas,
+
+, Describenda sit trajectoria, quae similis sit lineae curvae F G H I,
+& cujus parteS, illius partibus F G, GH, HI similes 8c proportio-
+naleS, rectis A B & A D, A D 8c BD, BD & C E positione datis,
+prima primiS, secunda secundiS, tertia tertiis interjaceant. Actis
+rectis F G, GH, H J, Fl, describatur (per lem. xxvn) trapezium
+
+ 
+
+fghi quod sit trapezio F GH I simile, & cujus· anguli f, g, h,z·
+
+· tangant rectas illas positione datas A B, A D', BD, C E, singuli
+singulas dicto ordine. Dein circa hoc trapezium describatur trajec-
+toria curvae lineae F G HI consimilis,
+
+ScZolium.
+
+Construi etiam potest hoc problema ut sequitur. Junctis F G,
+>(ΗΕΓ, HI, FI produc GF ad V, jungeque FH, JG, 81 angulis
+FGH, V F H fac angulos C A K, DA L aequales. Concurrant A Is,
+A L cum recta BD in K & L, & inde agantur KM, L N, quarum
+K M constituat angulum A K M aequalem angulo GH J, sitque ad
+AK ut est HI ad G Η ,· & L N constituat angulum A LN aequalem
+angulo FHI, sitque ad AL ut HJ ad FH. Ducantur autem A K,
+ΚΜ Α L, L N ad eas partes linearum A D, A Κ, A L, ut literae
+

@@ -1,0 +1,49 @@
+LJBER SECUND os, v 287
+
+’ apparenter gravia vel levia, ἃ eorum gravitas vel levitas compara-
+5 tiva & apparens est excessus vel defectus quo vera eorum gravitas vel
+
+. superat gravitatem aquae vel ab ea superatur. Quae‘vero vnec prae-
+gravando descendunt, nec praegravanti cedendo ascendunt, etiamsi
+
+. veris suis ponderibus adaugeant pondus totiuS, comparative tamen
+
+& in sensu vulgi non gravitant in aqua. Nam 'similis est horum ca-
+
+* . suum demonstratio.
+
+ 
+
+Corol. 7. Quae de gravitate demonstrantur, obtinent in aliis qui— ⁴
+buscunque viribus centripetiS.
+
+Corol. 8. Proinde si medium,⁴ in quo corpus aliquod movetur,
+urgeatur vel a gravitate propria, vel ab alia quacunque vi centripeta,
+8t. corpus ab eadem vi urgeatur fortius; differentia virium est vis
+illa motrix, quam in praecedentibus propositionibus ut vim centri-
+petam consideravimus, Sin corpus a vi illa urgeatur leviu5, differentia
+virium pro vi centrifuga haberi debet.
+
+Corol. 9. Cum autem fluida premendo corpora inclusa non mutent
+eorum figuras externaS, patet insuper (per corollarium prop. XIX) quod
+non mutabunt situm partium internarum inter se: proindeque, si
+animalia immergantur, & sensatio omnis a motu partium oriatur; nec
+laedent corpora immersa, nec sensationem ullam excitabunt, nisi qua-
+tenus haec corpora a compressione condensari possunt. Et par est
+ratio cujuscunque corporum systematis fluido comprimente circundati.
+Systematis partes omnes iisdem agitabuntur motibuS, ac si in vacuo
+constituerentur, ac solam retinerent gravitatem suam comparativam,
+nisi quatenus fluidum vel motibus earum nonnihil resistat, vel ad
+easdem compressione conglutinandas requiratur.
+
+PROPOSITIO XXI. THEOREMA XVI.
+
+Sit fluidi cujusdam densitas compressioni proportionalis, ἐπ’ partes
+q‘us' a vi centripeta distantiis suis a centro recipfflce propor-
+tionali deorsum trahantur: dico quod, si distantiae z'llae sumantur
+continue proportionaleS, densitates fluidi in iisdem distantiis erunt
+etiam continue proportionales.
+
+Designet A T V fundum sphaericum cui fluidum incumbit, S cen-
+trum, SA, S B, S C, SD, S E, S F, &e distantias continue propor-
+

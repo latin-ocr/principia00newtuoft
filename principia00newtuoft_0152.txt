@@ -1,0 +1,35 @@
+110 ’DE MOTU CORPORUM · ‘i
+
+angulum B, ut est sinus iste anguli A OQ ad radium, & angulus E
+ad angulum N —A 094- D, ut est longitudo L ad longitudinem ean-
+dem L c‘osinu anguli A OQ diminutam, ubi angulus iste recto minor '
+est, auctam ubi major. Postea capiatur tum angulus F ad angulum ,
+Β, ut est sinus anguli A OQ÷E ad radium, tum angulus G ad ;
+angulum N-A OQ-E÷F ut est longitudo L ad longitudinem ⁴
+eandem cosinu anguli A OQ÷E diminutam ubi angulus iste recto
+minor est, auctam ubi major. Tertia vice capiatur angulus H ad
+angulum B, ut est sinus anguli A OQ÷E÷G ad radium; δε angu- ’
+lus I ad angulum N—A OQ—E—G÷ H, ut est longitudo L ad ,
+eandem longitudinem cosinu anguli A OQ÷E÷G diminutam, ubi
+
+ 
+
+angulus iste recto minor est, auctam ubi major. Et sic pergere licet ·
+in infinitum. Denique capiatur angulus A Oq aequalis angulo A O Q
+-ι- E -ι- G÷1÷ &e Et ex cosinu ejus Or & ordinata pr, quae est ad ἱ
+sinum ejus qr ut ellipseos axis minor ad axem majorem, habebitur ε
+corporis locus correctus p. Si quando angulus N —A 0 Q÷ D nega· ζ
+tivus est, debet signum-4· ipsius E ubique mutari in—, & signum ἶ·
+—in÷. Idem intelligendum est de signis ipsorum G 8ι I, ubi anguli
+N—A OQ-E -l- F, & N—A OQ-E-G÷ H negativi prodeunt. ’
+Convergit autem series infinita A 0 9-1- Ε -Ι- G÷ 14 &e quam celer· -
+rime, adeo ut vix unquam opus fuerit ultra progredi quam ad ter-
+minum secundum E. Et fundatur calculus in hoc theoremate, quod
+area A P S sit ut differentia inter' arcum A Q ἃ rectam ab umbilico
+S in radium O Q perpendiculariter demissam.
+
+Non dissimili calculo conficitur problema in hyperbola. Sit ejus
+centrum O, vertex A, umbilicus S 81 asymptotos OK. Cognoscatur
+
+ 
+

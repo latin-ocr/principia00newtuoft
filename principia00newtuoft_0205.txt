@@ -1,0 +1,44 @@
+LIBER PRIMUS. 1 6 3·
+
+miter in directum; & (per legum corollarium sextum) motus omnes
+in hoc spatio peragentur ut priuS, ideoque corpora describent circum
+se mutuo figuras easdem ac priuS, & propterea figurae pqv similes 8c
+aequaleS. Q. E. D.
+
+Corol. 1. Hinc corpora duo viribus distantiae suae proportionalibus
+se mutuo trahentia, describunt (per prop. X) 8c circum commune
+
+. gravitatis centrum, & circum se mutuO, ellipses concentricas ; & vice
+
+ 
+
+versa, si tales figurae describuntur, sunt vires distantiae proportionales,
+
+Corol. 2. Et corpora du0, viribus quadrato distantiae suae reciproce
+proportionalibus describunt (per prop. xi, ΧΠ, xm) & circum
+commune gravitatis centrum, & circum se mutuo, sectiones conicas
+umbilicum habentes in centro, circum quod figurae describuntur. Et
+vice versa, si tales figurae describuntur, vires centripetae sunt quadrato
+distantiae reciproce proportionales
+
+Corol. 3. Corpora duo quaevis circum gravitatis centrum commune
+gyrantia, radiis ἃ ad centrum illud & ad se mutuo ductiS, describunt
+areas temporibus proportionales
+
+PROPOSITIO LIX. THEOREMA XXII.
+
+Corporum duorum S ὢ* Ρ, circa commune gravitatis centrum C
+revolventium, tempus periodicnm esse ad tempus periodienm corporis
+alterutrius P, circa alterum immotum S gyrantis, ὥ* figuris, qnoe
+corpora circum se mutuo describunt, figuram similem ὣ) oequalem
+describentis, in subduplicata ratione corporis alterius S, ad summam
+corporum S «1- Ρ.
+
+Namque, ex demonstratione superioris propositioniS, tempora,
+quibus arcus quivis similes P Q & p q describuntur, sunt in subdupli-
+cata ratione distantiarum C P & SP vel sp, hoc est, in subduplicata
+ratione corporis S ad summam corporum S÷P. Et componendO,
+summae temporum quibus arcus omnes similes P Q & pq describuntur,
+hoc est, tempora tota, quibus figurae totae similes describuntur, sunt in
+eadem subduplicata ratione. Q. E. D. ¹
+

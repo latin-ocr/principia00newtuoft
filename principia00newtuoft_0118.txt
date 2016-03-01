@@ -1,0 +1,55 @@
+76 DE Mo TU CORPOR ΗΜ
+
+coeat etiam linea P T cum linea PS: & rectangulum PS ><Ρ T
+evadet Ρ S quad. rectaeque A B, C D, quae curvam in punctis A & B, ’ -ξ
+C & D secabant, jam curvam in punctis illis coeuntibus non amplius
+
+secare possunt, sed tantum tangent.
+
+ 
+
+Scholz'um.
+
+Nomen conicae sectionis in hoc lemmate late sumitur, ita ut sectio
+tam rectilinea per verticem coni transienS, quam circularis basi pa-
+rallela includatur. Nam si punctum p incidit in rectam, qua puncta
+A & D vel C 81 B junguntur, conica sectio vertetur in geminas
+rectaS, quarum una est recta illa in quam punctum p incidit, 8c
+altera est recta qua alia duo ex punctis quatuor junguntur. Si tra-
+pezii anguli duo oppositi simul sumpti aequentur duobus rectiS, & lineae ÷
+quatuor Ρ Q, PR, PS, Ρ Τ ducantur ad latera ejus vel perpendi· ⁴2
+culariter vel in angulis quibusvis Ι
+aequalibuS, sitque rectangulum
+
+sub duabus ductis PQxPR
+
+aequale rectangulo sub duabus
+aliis ΡΣ ><Ρ T, sectio conica
+evadet circulus, Idem fiet, si
+lineae quatuor ducantur in an-
+gulis quibusviS, & rectangulum
+sub duabus ductis PQxPR
+sit ad rectangulum sub aliis
+duabus ΡΒ ><Ρ Τ ut rectan-
+gulum sub sinubus angulorum
+S, T, in quibus duae ultimae
+PS, PT ducuntur, ad rectangulum sub sinubus angulorum Q, R, in
+quibus duae primae PQ, PR ducuntur. Caeteris in casibus locus
+puncti Ρ erit aliqua trium figurarum, quae vulgo nominantur sectiones
+conicae. Vice autem trapezii ABC D substitui potest quadrilaterum,
+cujus latera duo opposita se mutuo instar diagonalium decussant.
+Sed 81 e punctis quatuor A, B, C, D possunt unum vel duo abire ad
+
+.
+..ι’
+“ ἓ
+,
+
+.
+
+ 
+
+infinitum, eoque pacto latera figurae, quae ad puncta illa convergunt,
+evadere parallela: quo in casu sectio conica transibit per caetera
+puncta, δε ἰη plagas parallelarum abibit in infinitum.
+

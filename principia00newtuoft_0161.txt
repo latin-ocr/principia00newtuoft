@@ -1,0 +1,53 @@
+LIBER PRIMUS. ’ 119
+
+circulo velocitatem, qua corpus ad intervallum datum S G circa cen-
+trum 'S revolvi posset, cape GA ad ἐν Α S. Si ratio illa est numeri
+' binarii ad unitatem, punctum A infinite distat, quo casu parabola
+vertice S, axe S G, latere quovis recto describenda est. Patet hoc
+per prop. XXXIV. Sin ratio illa minor vel major est quam 2 ad ι,
+priore casu circuluS, posteri0re hyperbola rectangula super diametro
+
+’ p SA describi debet. Patet per prop. XXXIII. Tum centro S, inter-
+
+vallo aequante dimidium lateris recti, describatur'circulus H kls, &
+ad corporis descendentis vel ascendentis locum G, & locum alium
+quemvis C, erigantur perpendicula G I, C D occurrentia conicae
+sectioni vel circulo in J ac D. Dein junctis S J, S D, fiant segmen-
+tis SE IS, S E DS sectores H S K, H Sk aequaleS, 8c per prop. XXXV
+corpus G describet spatium G C eodem tempore quo corpus K de-
+scribere potest arcum K k. Q. E. F.
+
+PROPOSITIO XXXVIII. THEOREMA XII.
+
+Posito quod vis centripeta proportionalis sit altitudini seu distantioe
+locorum a centro, dico quod cadentium tempora, velocitates ὣ* spatia
+descripta sunt arc'ubuS, artuumque sinibus rectis <⁶9³ sinibus versis
+respective proportionalia.
+
+Cadat corpus de loco quovis A secundum A
+
+rectam A S,· & centro virium S intervallo [Nxx
+A S, describatur circuli quadrans A E, sitque Ι γ)
+
+C D sinus rectus arcus cujusvis A D ,⁰ & cor· C “ ² · χ,
+pus A, tempore A D, cadendo describit spa· ι
+— I
+
+ 
+
+tium A C, inque loco C acquiret velocitatem
+C D.
+
+Demonstratur eodem modo eX propositione S
+X, quo propositio XXXII eX propositione XI demonstrata fuit.
+
+Corol. 1. Hinc aequalia sunt tempora, quibus corpus unum de loco
+A 'cadendo pervenit ad centrum S, 81 corpus aliud revolvendo de-
+scribit arcum quadrantalem A DE.
+
+Corol. 2. Proinde aequalia sunt tempora omnia quibus corpora de
+locis quibusvis ad usque centrum cadunt. Nam revolventium tem-
+pora omnia periodica (per corol. 111. prop. Iv) aequantur.
+
+ 
+

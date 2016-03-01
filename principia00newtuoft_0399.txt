@@ -1,0 +1,40 @@
+LIBER SE C UND US. ⁴ 3 5 7
+
+S E C T I O V Ι I Ι.
+De motu per fluida propagato.
+
+PROPOSITIO XLI. THEOREMA XXXII.
+
+Pressz'o non propagat-‘ur per fluidum secundum lineas rectas, m'sz‘ ubi
+particulaefluz'dz‘ in directum jacent.
+
+Si jaceant particulae a, b, c, d, e in linea recta, potest quidem pres-
+sio directe propagari ab a ad e,· at particula e urgebit particulas oblique
+positas f & g oblique, & particulae illae f & g non sustinebunt
+pressionem illatam, nisi fulciantur a particulis ulterioribus h & k,-
+quatenus autem fulciuntur, premunt particulas fulcientes; & hae non
+sustinebunt pressionem nisi fulciantur ab ulte-
+rioribus l & m easque premant, & sic deinceps
+in infinitum. Pressio igitur, quum primum
+
+    
+
+propagatur ad particulas quae non in directum
+jacent, divaricare incipiet &oblique propagabitur φῶ Ξ..Θ ,
+in infinitum; & postquam incipit oblique 0¹·QOO
+propagari, si inciderit in particulas ulterioreS,
+quae non in directum jacent, iterum divaricabit;⁴ idque totieS, quoties
+in particulas non accurate in directum jacentes inciderit. Q. E. D.
+Corol. Si pressioniS, a dato puncto per fluidum propagatae, pars
+aliqua obstaculo intercipiatur; pars reliqua, quae non intercipitur,
+divaricabit in spatia pone obstaculum. Id quod sic etiam demon-
+strari potest. A puncto A propagetur pressio quaquaversum, idque
+si fieri potest secundum lineas rectaS, δι obstaculo NB CK perfora-
+to in B C intercipiatur ea omnis, praeter partem coniformem A PQ,
+quae per foramen circulare B C transit. Planis transversis d e, fg,
+lzz' distinguatur conus A Ρ Q in frusta; & interea dum conus A B C,
+pressionem propagandO, urget frustum conicum ulterius degf in
+superficie d e, & hoc frustum urget frustum proximum f g 2st in
+superficie f g, & frustum illud urget frustum tertium, & sic deinceps
+in infinitum; manifestum est (per motus legem tertiam) quod fru-
+

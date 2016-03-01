@@ -1,0 +1,60 @@
+1, LIBER PRIMUS, 6 Ι ’
+i ‘tione composita ex subduplicata ratione lateris recti· & sesquiplicata
+
+Ξ ratione axis majoris, Sed hoc rectangulum (per corol. prop. XIV.)
+ι est in ratione composita ex subduplicata ratione lateris recti & ratione
+periodici temporis, Dematur utrobique subduplicata ratio lateris
+recti, 8c manebit sesquiplicata ratio majoris axis eadem cum ratione
+periodici temporis, Q. E. D.
+’ Corob' Sunt igitur tempora periodica in ellipsibus eadem ac in
+circuliS, quorum diametri aequantur majoribus axibus ellipseon.
+
+PROPOSITIO XVI. THEOREMA VIII.
+
+. ' Iisdem positis, ὥ* actis ad corpora lineis rectis, qna· ibidem tangant
+
+⁷ orbitas, demissisque ab umbilico communi aa' lias tangentes perpen-
+
+dicularibus : dico quod velocitates corporum sunt in ratione composita
+
+ex ratione perpendicularmn inverse, ὦ* subduplicata ratione laterum
+rectorum principalium directe.
+
+Ab umbilico S ad tangentem PR
+demitte perpendiculum S Υ, & velo-
+citas corporis P erit reciproce in sub-
+S Υ q
+
+L .
+
+Nam velocitas illa est ut arcus quarn
+
+minimus P Q in data temporis parti-
+
+cula descriptu3‚ hoc est (per lem. VII.)
+
+ut tangens PR, id est, ob proportion-
+-ales PR ad QT& SPad SKut
+
+SPXQ T, sive ut S Υ reciproce & S P >< Q T directe; estque
+
+ 
+
+duplicata ratione quantitatis
+
+ 
+
+ 
+
+S Υ
+S P >< Q T ut area dato tempore descripta, id est (per prop. XIV.)
+in subduplicata ratione lateris recti. Q. E. D.
+
+Corol. 1. Latera recta principalia sunt in ratione composita ex
+
+duplicata ratione perpendiculorum, & duplicata, ratione velocita-
+tum.
+
+Corol. 2. Velocitates corporum, in maximis & minimis ab umbi-
+lico communi distantiiS‚ sunt in ratione composita ex ratione distan-
+

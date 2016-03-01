@@ -1,0 +1,48 @@
+'240 DE MOTU CORPORUM
+
+rectangulis C D, CH descriptae, occurrentia in B, k, l, m, &c. & erit
+AB ad Kk ut CK ad CA, & divisim AB—Kk ad Kk ut AK ad
+CA, & vicissim A B—Kk ad A Kut Kk ad CA, ideoque ut A B
+>< Kk ad 'AB >< CA. Unde, cum AK & AB >< CA dentur, erit AB
+—Kk ut AB >< ΚΑ· & ultimo, ubi coeunt AB & Kk, ut ABq. Et
+simili argumento erunt Kk-Ll, Ll—Mm, &c ut K k· quad. Ll quad.
+&e Linearum igitur A B, K k, L l, M m quadrata sunt ut earun-
+dem differentiae; & idcirco, cum quadrata velocitatum fuerint
+
+etiam ut ipsarum differentiae, similis erit ambarum progressio, Quo
+
+demonstrato, consequens est etiam ut Η]
+areae his lineis descriptae sint in pro-
+gressione consimili cum spatiis quae ·
+
+velocitatibus describuntur. Ergo si
+velocitas initio primi temporis A K
+exponatur per lineam A B, 8c velo-
+citas initio secundi K L per lineam
+K k, & longitudo primo tempore
+descripta per aream A K k B,· velo-
+
+  
+
+citates omnes subsequentes expon- Ο 7 D
+entur per lineas subsequentes L l, M m, &e & longitudines
+descriptae per areas K l, Lm, &c Et composite, si tempus totum
+exponatur per summam partium suarum A M, longitudo tota
+descripta exponetur per summam partium suarum A M m B. Con-
+cipe jam tempus A Μ ita dividi in partes A K, K L, LM‚ &o ut
+sint CA, C K, CL, CM, &c in progressione geometrica; & erunt
+partes illae in eadem progressione, ἃ velocitates A B, K k, L l, M m,
+&o in progressione eadem inversa, atque spatia descripta A k, K l,
+L m, &c aequalia. Q. E. D. ,
+
+Corol. 1. Patet ergo quod, si tempus exponatur per asymptoti
+partem quamvis A D, & velocitas in principio temporis per ordi-
+natim applicatam A B‚· velocitas in fine temporis exponetur per
+ordinatam D G, & spatium totum descriptum per aream hyperbo-
+licam adjacentem A BGD,· necnon. spatium, quod Corpus aliquod
+eodem tempore A D, velocitate prima A B, in medio non resistente
+describere posset, per rectangulum A B >< A D.
+
+Corol. 2. Unde datur spatium in medio resistente descriptum,
+capiendo illud ad spatium quod velocitate uniformi A B sn medio
+
