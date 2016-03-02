@@ -1,0 +1,58 @@
+60 * DE M OTU CORPOR ΠΜ
+
+& vis centripeta potis sit eodem tempore· corpus idem movere ⁵
+
+per spatium Q R .- movebitur hoc corpus in conica aliqua sectione, ,
+
+cujus latus rectum principale est quantitas illa ἐξ, quae ultimo fit, .
+
+ 
+
+ubi lineolae PR, QR in infinitum diminuuntur. Circulum in his. ·
+
+corollariis refero ad ellipsin; & casum excipio, ubi corpus -recta .
+descendit ad centrum. ’
+
+PROPOSITIO XIV. THEOREMA VI.
+
+Si corpora plura revolvantur circa centrum commune, <⁰9³ vis centripeta
+
+sit reciproce in duplicata ratione distantiae locorum a centro ,· dico , -
+quod orbium latera recta principalia sunt in duplicata ratione ’
+
+arearum, quas corpora radiis ad centrum ductis eodem tempore
+describunt.
+
+Nam (per corol 2. prop. xm.) latus
+. . Qq R ,
+rectum L aequale est quantltatl Q R, ι .
+quae ultimo fit, ubi coeunt puncta P 8c
+Q. Sed linea minima QR dato tempore
+est ut vis centripeta generanS, hoc est
+(per hypothesin) reciproce ut S Pq.
+Q T q
+Q R
+latus rectum L in duplicata ratione areae Q Τ >< S P. Q. E. D.
+Corol. Hinc ellipseos area tota, eique proportionale rectangulum
+sub axibus est in ratione composita ex subduplicata ratione lateris ’
+
+recti, ἃ ratione temporis periodici. Namque area tota est ut area
+
+ 
+
+Ergo est ut Q T q >< S Pq, hoc est,
+
+QT>< SP, quae dato tempore describitur, ducta in tempus periodi· ’ ζ
+
+CUm.
+
+PROPOSITIO XV. THEOREMA VII.
+
+Iisdem positis, dico qnod tempora periodica in ellipsibus sunt in ratione
+sesquiplicata majorum axium.
+
+Namque axis minor est medius proportionalis in'ter axem majo· ·
+rem & latus rectum, atque ideo rectangulum sub axibus est in ra-
+
+ 
+

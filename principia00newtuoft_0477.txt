@@ -1,0 +1,45 @@
+LIBER TERTIUS. 4 3 5
+
+  
+ 
+
+*numerus ἐσοθπὲοὲσ designat differentiam quadratorum angulorum C T P “
+
+3· & C T p applicatam ad quadratum anguli minoris C T P, seu (quod
+” perinde est) differentiam quadratorum temporum 27‘1· 7¹²· 43² ἃ 29d..
+
+12¹²· 44' applicatam ad quadratum temporis 27d. 7¹¹⁸ 43,- .
+
+Igitur cum a designet syzygiam lunae & C ipsius quadraturam,
+
+· proportio jam inventa eadem esse debet curn proportione curvaturae
+, orbis lunae in syzygiis ad ejusdem curvaturam in quadraturiS, quam
+
+'supra invenimus. Proinde ut inveniatur proportio C T ad A Τ,
+duco extrema & media in se invicem. Et termini prodeuntes ad
+
+i A ΤΧ CT applicati fiunt 2062,79 Cqu-2151969 N >< C T cub.
+
+÷368676 Ν><Α TxCTq÷36342 A quCTq—362o47 Nx
+A quCT÷2191371 N ><A Τ czcb.÷4o51,4 A quzo. Hic
+pro terminorum A T ἆ C T semisumma N scribo 1, & pro eorundem
+semidifferentia ponendo x, fit C T --- 1 ÷x‚ & A T = 1 -χι quibus in
+aequatione scriptiS‚ & aequatione prodeunte resoluta, obtinetur x
+aequalis o,00719, & inde semidiameter C T fit 1‚00719, & semi-
+diameter A T 0‚99281, qui numeri sunt ut 702} 8c 6951 quam prox-
+ime. Est igitur distantia lunae a terra in syzygiis ad ipsius distan-
+tiam in quadraturis (seposita scilicet eccentricitatis consideratione) ut
+69231 ad 7031, vel numeris rotundis ut 69 ad 70.
+
+PROPOSITIO XXIX. PROBLEMA X.
+
+Invenire variationem lunae. ·
+
+70 ad 69: foret tangens anguli C T P ad tangentem anguli motus
+medii a quadratura C computati, ut ellipseos semidiameter TA ad
+ejusdem semidiametrum TC seu 69 ad 70. Debet autem descriptio
+areae C T P, in progressu lunae a quadratura ad syzygiam, ea ratione
+accelerari, ut ejus momentum in syzygia lunae sit ad ejus momentum
+in quadratura ut 11073 ad 10973, utque excessus momenti in loco
+quovis intermedio P supra momentum in quadratura sit ut quadra-
+

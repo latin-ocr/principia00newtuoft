@@ -1,0 +1,54 @@
+'136 DE MOTU CORPORUM
+
+PROPOSITIO XLV. PROBLEMA XXXI.
+
+Orbium qui sunl circulis maxime finitimi requiruntur motus
+apsidum.
+
+Problema solvitur arithmetice faciendo ut orbiS, ‘quem corpus
+in ellipsi mobili (ut in propositionis superioris corol. 2 vel 3)
+revolvens describit in plano immobili, accedat ad formam orbis
+cujus apsides requiruntur, & quaerendo apsides orbis quem corpus
+illud in plano immobili describit. Orbes autem eandem acquirent
+formam, si vires centripetae quibus describuntur, inter se collatae, in
+aequalibus altitudinibus reddantur proportionales, Sit punctum V ¹
+apsis summa, & scribantur T pro altitudine maxima C V, A pro
+altitudine quavis alia ΕΡ vel Cp, ἃ Χ pro altitudinum differentia
+C V— C P ἃ νί5, qua corpus in ellipsi circa umbilicum suum C (ut
+
+FF
+
+in corol. 2) revolvente movetur, quaeque in corol. 2 erat ut —-!-
+
+A A
+Q, id est ut FFA 4—RGG— RF F, substituendo T—X
+A cub. A cub.
+RGG-RFF4TFF-FFX
+A cub.
+vis alia quaevis centripeta ad fractionem cujus denominator sit A cub.
+& numeratoreS, facta homologorum terminorum collatione, statuendi
+
+sunt analogi. Res exemplis patebit.
+Exempl.1 Ponamus vim centripetam uniformem esse, ideo-
+
+ 
+
+ 
+
+pro A, erit ut . Reducenda similiter est
+
+ 
+
+que ut ἓ Ξῖ, sive (scribendo T— X pro A in numeratore) ut
+T cub.—3TTX÷3TXX—X cub.
+
+A {uf—5 ; ἃ collatis numeratorum terminis ,
+
+correspondentibuS, nimirum datis cum datis ἃ non datis cum non datis,
+fiet RGG-RFF÷TFF ad T cub. ut-FFX ad-3TTX÷3TXX
+-X cub. sive ut—FF ad—3TT÷3TX—X X. Jam cum orbis
+ponatur circulo quam maxime finitimuS, coeat orbis cum circulo ς
+& ob factas R, T aequaleS, atque X in infinitum diminutam, rationes
+ultimae erunt RGG ad T cub. ut—FF ad—3 TT, seu GG ad
+TT ut FF ad 3 TT, & vicissim GG ad FF ut TT ad 3TT, id est,
+
